@@ -2,6 +2,7 @@
 title: "Learning_from_models"
 excerpt: 'Performance datasets and analysis notebooks for high-dimensional analyses of machine learning interatomic potential (MLIP) performance.<br>Reference: Yunsheng Liu, Yifei Mo\*, "Learning from models: high-dimensional analyses on the performance of machine learning interatomic potentials", [***NPJ Computational Materials***, 10, 159 (2024)](https://doi.org/10.1038/s41524-024-01333-3)'
 collection: portfolio
+icon: chart-line
 link: "https://github.com/mogroupumd/Learning_from_models"
 ---
 

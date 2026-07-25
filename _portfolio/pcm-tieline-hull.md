@@ -2,6 +2,7 @@
 title: "First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials"
 excerpt: "Code for identifying and generating candidate ternary chalcogenide phase-change materials from Materials Project tie-line analysis, through DFT-ready structures."
 collection: portfolio
+icon: code
 link: "https://github.com/mogroupumd/pcm_tieline_hull"
 ---
 
