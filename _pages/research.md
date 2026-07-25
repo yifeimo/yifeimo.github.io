@@ -29,7 +29,6 @@ Our Research
 
 Examples of Our Research
 ======
-Click through any topic below to read more.
 
 {% include base_path %}
 
