@@ -165,6 +165,46 @@ Video Presentations
 
 </div>
 
+Podcast
+======
+
+<div class="video-list">
+
+<div class="video-card">
+  <a class="video-thumb" href="https://youtu.be/2Jx1RAwVohc" target="_blank" rel="noopener" aria-label="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/2Jx1RAwVohc/hqdefault.jpg" alt="Paper Chat - Concerted Migration video thumbnail" loading="lazy">
+    <span class="play-badge">&#9658;</span>
+  </a>
+  <div class="video-info">
+    <p class="video-title"><a href="https://youtu.be/2Jx1RAwVohc" target="_blank" rel="noopener">Paper Chat - Concerted Migration: Origin of Fast Ion Conductors</a></p>
+    <p class="video-citation">"Origin of Fast Ion Diffusion in Super-Ionic Conductors", <a href="http://dx.doi.org/10.1038/ncomms15893"><i><b>Nature Communications</b></i>, 8, 15893 (2017)</a></p>
+  </div>
+</div>
+
+<div class="video-card">
+  <a class="video-thumb" href="https://youtu.be/Ss4IFw3SALI" target="_blank" rel="noopener" aria-label="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/Ss4IFw3SALI/hqdefault.jpg" alt="Paper Chat - Density of Atomistic States video thumbnail" loading="lazy">
+    <span class="play-badge">&#9658;</span>
+  </a>
+  <div class="video-info">
+    <p class="video-title"><a href="https://youtu.be/Ss4IFw3SALI" target="_blank" rel="noopener">Paper Chat - Density of Atomistic States (DOAS) for Studying Ion Conductors</a></p>
+    <p class="video-citation">"Frustration in Super-Ionic Conductors Unraveled by the Density of Atomistic States", <a href="https://doi.org/10.1002/anie.202215544"><i><b>Angewandte Chemie Int. Ed.</b></i> 62, e202215544 (2023)</a></p>
+  </div>
+</div>
+
+<div class="video-card">
+  <a class="video-thumb" href="https://youtu.be/7U9OTN-Y4no" target="_blank" rel="noopener" aria-label="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/7U9OTN-Y4no/hqdefault.jpg" alt="Paper Chat - Design Principles for Sodium Superionic Conductors video thumbnail" loading="lazy">
+    <span class="play-badge">&#9658;</span>
+  </a>
+  <div class="video-info">
+    <p class="video-title"><a href="https://youtu.be/7U9OTN-Y4no" target="_blank" rel="noopener">Paper Chat - Design Principles for Sodium Superionic Conductors</a></p>
+    <p class="video-citation">"Design principles for sodium superionic conductors", <a href="https://doi.org/10.1038/s41467-023-43436-3"><i><b>Nature Communications</b></i>, 14, 7615 (2023)</a></p>
+  </div>
+</div>
+
+</div>
+
 Selected Invited Presentations
 ======
 
