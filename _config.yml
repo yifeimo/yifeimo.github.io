@@ -23,7 +23,7 @@ repository               : "yifeimo/yifeimo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yifei Mo"
   pronouns         : # example: "she/her"
   bio              : "Professor of Materials Science and Engineering, University of Maryland. Computational materials science, materials discovery, and energy storage/conversion materials."
