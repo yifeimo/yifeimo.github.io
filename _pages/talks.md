@@ -18,6 +18,7 @@ author_profile: true
 .video-thumb {
   position: relative;
   flex: 0 0 200px;
+  aspect-ratio: 16 / 9;
   display: block;
   border-radius: 6px;
   overflow: hidden;
@@ -25,7 +26,8 @@ author_profile: true
 }
 .video-thumb img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   display: block;
   transition: opacity 0.15s ease;
 }
