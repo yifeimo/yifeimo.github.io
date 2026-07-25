@@ -2,7 +2,7 @@
 title: "ENMA 400 / ENMA 600: Atomistic Modeling in Materials"
 collection: teaching
 type: "Undergraduate/Graduate course"
-order: 3
+order: 2
 permalink: /teaching/enma400-600-atomistic-modeling-in-materials
 venue: "Department of Materials Science and Engineering, University of Maryland"
 date: 2024-08-01
