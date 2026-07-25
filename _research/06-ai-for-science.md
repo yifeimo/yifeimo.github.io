@@ -3,6 +3,7 @@ title: "Understandable, Reliable AI for Scientific Advancement"
 collection: research
 permalink: /research/ai-for-science/
 icon: robot
+order: 2
 excerpt: "Using AI/ML as a research assistant — understandable, physically grounded, and rigorously tested — to accelerate materials discovery."
 ---
 

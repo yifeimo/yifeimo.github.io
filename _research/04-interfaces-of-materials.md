@@ -3,6 +3,7 @@ title: "Interfaces of Materials"
 collection: research
 permalink: /research/interfaces-of-materials/
 icon: layer-group
+order: 5
 excerpt: "Studying materials interfaces through computation to unravel the mechanisms that limit performance, such as in batteries."
 ---
 

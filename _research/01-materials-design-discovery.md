@@ -3,6 +3,7 @@ title: "Materials Design & Discovery"
 collection: research
 permalink: /research/materials-design-discovery/
 icon: flask
+order: 1
 excerpt: "We design and discover materials through high-throughput computation and machine learning/AI, evaluating the full range of properties a material needs to actually work in application."
 ---
 

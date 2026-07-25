@@ -3,6 +3,7 @@ title: "Quantum Computing"
 collection: research
 permalink: /research/quantum-computing/
 icon: microchip
+order: 7
 excerpt: "Leveraging UMD's strengths as the 'Quantum Capital' to accelerate our computational materials research."
 ---
 

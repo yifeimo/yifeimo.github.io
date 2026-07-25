@@ -32,8 +32,9 @@ Examples of Our Research
 
 {% include base_path %}
 
+{% assign research_sorted = site.research | sort: "order" %}
 <div class="card-grid">
-{% for topic in site.research %}
+{% for topic in research_sorted %}
   <div class="info-card">
     <div class="card-icon"><i class="fas fa-{{ topic.icon }}" aria-hidden="true"></i></div>
     <h4><a href="{{ base_path }}{{ topic.url }}">{{ topic.title }}</a></h4>

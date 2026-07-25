@@ -3,6 +3,7 @@ title: "Complex Physics in Materials"
 collection: research
 permalink: /research/complex-physics-in-materials/
 icon: atom
+order: 3
 excerpt: "Unraveling the complex physical mechanisms — disordering, frustration, super-ionic conduction, and non-linear dynamics — behind materials with exceptional properties."
 ---
 

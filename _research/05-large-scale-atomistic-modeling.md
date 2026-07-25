@@ -3,6 +3,7 @@ title: "Large-Scale Atomistic Modeling"
 collection: research
 permalink: /research/large-scale-atomistic-modeling/
 icon: cubes
+order: 6
 excerpt: "Large-scale atomistic simulations of materials phenomena governed by longer length and time scales."
 ---
 

@@ -3,6 +3,7 @@ title: "Guiding Principles for Materials"
 collection: research
 permalink: /research/guiding-principles-for-materials/
 icon: compass
+order: 4
 excerpt: "Using computational insights and large datasets to develop guiding principles for materials design."
 ---
 
