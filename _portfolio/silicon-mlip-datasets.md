@@ -1,7 +1,7 @@
 ---
 title: "Silicon MLIP Benchmark Datasets"
 repo: "Silicon_MLIP_datasets"
-excerpt: 'Training, validation, and testing datasets for evaluating machine learning interatomic potentials (MLIPs) on silicon.<br>Reference: [***NPJ Computational Materials*** 9, 174 (2023)](https://doi.org/10.1038/s41524-023-01123-3)'
+excerpt: 'Training, validation, and testing datasets for evaluating machine learning interatomic potentials (MLIPs) on silicon.<br>Reference: <span class="citation">[*npj Comput. Mater.* 9, 174 (2023)](https://doi.org/10.1038/s41524-023-01123-3)</span>'
 collection: portfolio
 icon: database
 link: "https://github.com/mogroupumd/Silicon_MLIP_datasets"

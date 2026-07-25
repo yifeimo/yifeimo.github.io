@@ -1,7 +1,7 @@
 ---
 title: "Topological Site Analysis for Crystal Structures"
 repo: "Topological_Analysis"
-excerpt: 'A Python library for topological analysis of interstitial sites in oxide and sulfide crystal structures, based on Voronoi analysis.<br>Reference: [***Advanced Energy Materials*** 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078)'
+excerpt: 'A Python library for topological analysis of interstitial sites in oxide and sulfide crystal structures, based on Voronoi analysis.<br>Reference: <span class="citation">[*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078)</span>'
 collection: portfolio
 icon: draw-polygon
 link: "https://github.com/mogroupumd/Topological_Analysis"

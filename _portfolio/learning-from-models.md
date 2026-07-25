@@ -1,7 +1,7 @@
 ---
 title: "MLIP Performance Analysis"
 repo: "Learning_from_models"
-excerpt: 'Performance datasets and analysis notebooks for high-dimensional analyses of machine learning interatomic potential (MLIP) performance.<br>Reference: [***NPJ Computational Materials***, 10, 159 (2024)](https://doi.org/10.1038/s41524-024-01333-3)'
+excerpt: 'Performance datasets and analysis notebooks for high-dimensional analyses of machine learning interatomic potential (MLIP) performance.<br>Reference: <span class="citation">[*npj Comput. Mater.* 10, 159 (2024)](https://doi.org/10.1038/s41524-024-01333-3)</span>'
 collection: portfolio
 icon: chart-line
 link: "https://github.com/mogroupumd/Learning_from_models"
