@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Code & Data"
+permalink: /code-data/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="wordwrap">Code and datasets released by the Mo Group are hosted on GitHub at <a href="https://github.com/mogroupumd">github.com/mogroupumd</a>.</div>
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
