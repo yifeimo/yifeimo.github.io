@@ -19,6 +19,8 @@ Research Interests
 * Beyond Li-ion battery chemistries
 * Surfaces, interfaces, and nanomaterials
 
+See the full [Research page](/research/) for more on our vision, approach, and research areas.
+
 Recognition
 ======
 * Highly Cited Researcher (Top 0.1%), Clarivate Web of Science, 2021-2025
