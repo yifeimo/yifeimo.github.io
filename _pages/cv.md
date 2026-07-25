@@ -41,10 +41,9 @@ See the full list on the [Publications page](/publications/).
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+See the full list on the [Talks page](/talks/).
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
