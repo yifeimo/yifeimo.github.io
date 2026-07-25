@@ -59,7 +59,7 @@ author_profile: true
 }
 </style>
 
-Video presentations can be found on our [YouTube channel](https://www.youtube.com/yifeimo).
+Our [YouTube channel](https://www.youtube.com/yifeimo).
 
 Video Presentations
 ======
