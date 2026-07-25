@@ -2,6 +2,7 @@
 title: "ENMA 312: Experimental Methods in Materials Science"
 collection: teaching
 type: "Guest lecture"
+order: 4
 permalink: /teaching/enma312-experimental-methods-in-materials-science
 venue: "Department of Materials Science and Engineering, University of Maryland"
 date: 2025-01-01

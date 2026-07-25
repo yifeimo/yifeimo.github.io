@@ -2,6 +2,7 @@
 title: "ENMA 461: Thermodynamics of Materials"
 collection: teaching
 type: "Undergraduate course"
+order: 1
 permalink: /teaching/enma461-thermodynamics-of-materials
 venue: "Department of Materials Science and Engineering, University of Maryland"
 date: 2026-01-01

@@ -2,6 +2,7 @@
 title: "ENMA 401 / ENMA 601: Continuum Modeling of Materials"
 collection: teaching
 type: "Undergraduate/Graduate course"
+order: 2
 permalink: /teaching/enma401-601-continuum-modeling-of-materials
 venue: "Department of Materials Science and Engineering, University of Maryland"
 date: 2023-08-01
