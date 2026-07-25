@@ -1,6 +1,7 @@
 ---
-title: "Li-Al_MLIP_datasets"
-excerpt: 'Eight training, validation, and testing datasets for assessing machine learning interatomic potential accuracy on elemental ordering in Li-Al alloys.<br>Reference: Yunsheng Liu, Yifei Mo\*, "Assessing the Accuracy of Machine Learning Interatomic Potentials in Predicting the Elemental Orderings: A Case Study of Li-Al Alloys", [***Acta Materialia***, 268, 119742 (2024)](https://doi.org/10.1016/j.actamat.2024.119742)'
+title: "Li-Al MLIP Benchmark Datasets"
+repo: "Li-Al_MLIP_datasets"
+excerpt: 'Eight training, validation, and testing datasets for assessing machine learning interatomic potential accuracy on elemental ordering in Li-Al alloys.<br>Reference: [***Acta Materialia***, 268, 119742 (2024)](https://doi.org/10.1016/j.actamat.2024.119742)'
 collection: portfolio
 icon: database
 link: "https://github.com/mogroupumd/Li-Al_MLIP_datasets"

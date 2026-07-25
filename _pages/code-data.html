@@ -13,10 +13,8 @@ author_profile: true
 {% for item in site.portfolio %}
   <div class="info-card">
     <div class="card-icon"><i class="fas fa-{{ item.icon | default: 'code' }}" aria-hidden="true"></i></div>
-    <h4>
-      <a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a>
-      {% if item.link %}<a class="card-github" href="{{ item.link }}" title="View on GitHub"><i class="fab fa-github" aria-hidden="true"></i><span class="sr-only">View on GitHub</span></a>{% endif %}
-    </h4>
+    <h4><a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a></h4>
+    {% if item.link %}<p class="card-repo"><a href="{{ item.link }}"><i class="fab fa-github" aria-hidden="true"></i> {{ item.repo | default: item.title }}</a></p>{% endif %}
     <p>{{ item.excerpt | markdownify }}</p>
   </div>
 {% endfor %}

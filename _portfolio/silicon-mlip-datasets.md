@@ -1,6 +1,7 @@
 ---
-title: "Silicon_MLIP_datasets"
-excerpt: 'Training, validation, and testing datasets for evaluating machine learning interatomic potentials (MLIPs) on silicon.<br>Reference: Yunsheng Liu, Xingfeng He, Yifei Mo\*, "The Discrepancies and Error Evaluation Metrics for Machine Learning Interatomic Potentials on Simulating Atom Dynamics", [***NPJ Computational Materials*** 9, 174 (2023)](https://doi.org/10.1038/s41524-023-01123-3)'
+title: "Silicon MLIP Benchmark Datasets"
+repo: "Silicon_MLIP_datasets"
+excerpt: 'Training, validation, and testing datasets for evaluating machine learning interatomic potentials (MLIPs) on silicon.<br>Reference: [***NPJ Computational Materials*** 9, 174 (2023)](https://doi.org/10.1038/s41524-023-01123-3)'
 collection: portfolio
 icon: database
 link: "https://github.com/mogroupumd/Silicon_MLIP_datasets"
