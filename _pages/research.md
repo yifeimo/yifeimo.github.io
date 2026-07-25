@@ -3,9 +3,6 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
-toc: true
-toc_label: "Contents"
-toc_icon: "list"
 ---
 
 <style>
@@ -81,61 +78,16 @@ Our Research
 
 Examples of Our Research
 ======
+Click through any topic below to read more.
+
+{% include base_path %}
 
 <div class="research-grid">
-
-<div class="research-card">
-  <div class="research-icon"><i class="fas fa-flask" aria-hidden="true"></i></div>
-  <h4>Materials Design &amp; Discovery</h4>
-  <p>Our group uses computational modeling and simulation to understand, design, and discover advanced materials for renewable energy applications. Our high-throughput computational studies, spanning thousands of materials, have led to the discovery of new ion conductors and improved understanding of the atomistic mechanisms behind fast diffusion. We've also applied machine learning to materials discovery, leading to new solid electrolytes and coating materials.</p>
-</div>
-
-<div class="research-card">
-  <div class="research-icon"><i class="fas fa-atom" aria-hidden="true"></i></div>
-  <h4>Complex Physics in Materials</h4>
-  <p>Materials with exceptional properties often involve novel, complex physical mechanisms, and we aim to unravel them at the atomistic level — including disordering, frustration, super-ionic conduction, and non-linear dynamics. Using techniques like the Density of Atomistic States (DOAS), we reveal these intricacies at the atomic level to guide the design of novel materials.</p>
-</div>
-
-<div class="research-card">
-  <div class="research-icon"><i class="fas fa-compass" aria-hidden="true"></i></div>
-  <h4>Guiding Principles for Materials</h4>
-  <p>We use computational insights and large datasets to develop guiding principles for materials design. Our high-throughput studies reveal trends that establish guidelines for materials development — from fast ion diffusion and electrochemical stability windows to moisture and interface stability of solid-electrolyte materials.</p>
-</div>
-
-<div class="research-card">
-  <div class="research-icon"><i class="fas fa-layer-group" aria-hidden="true"></i></div>
-  <h4>Interfaces of Materials</h4>
-  <p>Interfaces are critical to how materials perform in application — for example, they are often the limiting factor in battery performance. We study materials interfaces through computation to unravel the underlying mechanisms and develop strategies to improve them.</p>
-</div>
-
-<div class="research-card">
-  <div class="research-icon"><i class="fas fa-cubes" aria-hidden="true"></i></div>
-  <h4>Large-Scale Atomistic Modeling</h4>
-  <p>We develop and employ large-scale atomistic simulations to study materials phenomena governed by longer length and time scales, including:</p>
-  <ul>
-    <li>Dynamic mechanisms of Li stripping and plating at Li/solid-electrolyte interfaces, and related phenomena such as diffusion, interfacial defects, failure mechanisms, and crystallization</li>
-    <li>High-entropy materials</li>
-    <li>Phase-change mechanisms: crystallization, disordering, phase transition, phase segregation</li>
-    <li>Mechanical deformation of materials, friction, and nano-indentation</li>
-  </ul>
-</div>
-
-<div class="research-card">
-  <div class="research-icon"><i class="fas fa-robot" aria-hidden="true"></i></div>
-  <h4>AI for Science</h4>
-  <p>While powerful, AI/ML methods are often viewed as black boxes. We treat AI/ML as a research assistant, not a replacement for physical understanding:</p>
-  <ul>
-    <li><strong>Understandable AI</strong> — We use AI/ML in ways that let us understand the resulting models in terms of the underlying physics.</li>
-    <li><strong>Physical insights by AI</strong> — We leverage AI/ML to reveal new physical mechanisms that weren't accessible before.</li>
-    <li><strong>Materials discovery by AI</strong> — We accelerate materials discovery using AI/ML.</li>
-    <li><strong>Reliable &amp; trustworthy AI</strong> — We rigorously test the AI/ML methods we use, so we can trust the tools and the results.</li>
-  </ul>
-</div>
-
-<div class="research-card">
-  <div class="research-icon"><i class="fas fa-microchip" aria-hidden="true"></i></div>
-  <h4>Quantum Computing</h4>
-  <p>The University of Maryland — known as the "Quantum Capital" — is home to many leading groups and innovations in quantum computing. We leverage these strengths at UMD to accelerate our computational materials research.</p>
-</div>
-
+{% for topic in site.research %}
+  <div class="research-card">
+    <div class="research-icon"><i class="fas fa-{{ topic.icon }}" aria-hidden="true"></i></div>
+    <h4><a href="{{ base_path }}{{ topic.url }}">{{ topic.title }}</a></h4>
+    <p>{{ topic.excerpt }}</p>
+  </div>
+{% endfor %}
 </div>
