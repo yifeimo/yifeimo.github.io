@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Materials Science and Engineering, University of Wisconsin-Madison, 2010
+* Postdoctoral Research Associate, Materials Science and Engineering, Massachusetts Institute of Technology, 2010-2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2013-Present: Professor
+  * Department of Materials Science and Engineering, University of Maryland, College Park
+  * Affiliate, Maryland Energy Innovation Institute
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Honors and awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Highly Cited Researcher (Top 0.1%), Clarivate Web of Science, 2021-2025
+* World's Top 2% Scientists (Stanford University list), 2021-present
+* Junior Faculty Outstanding Research Award, A. James Clark School of Engineering, 2022
+* Outstanding Young Scientist Award, Maryland Academy of Sciences, 2019
+
+Research interests
+======
+* Computational materials science and materials discovery
+* First-principles and large-scale atomistic simulation
+* Solid-state electrolytes and solid-state batteries
+* Beyond Li-ion battery chemistries
+* Surfaces, interfaces, and nanomaterials
 
 Publications
 ======
@@ -61,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Editorial board, npj Computational Materials, Energy Storage Materials, and Advanced Theory and Simulations
