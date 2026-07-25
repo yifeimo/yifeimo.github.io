@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap"> <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+  <div class="wordwrap"> <a href="{{site.author.googlescholar}}">Google Scholar profile</a></div>
 {% endif %}
 
 *(\* corresponding author, <sup>#</sup> Mo group member, <sup>1</sup> co-first author)*

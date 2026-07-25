@@ -43,7 +43,7 @@ author:
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : # URL
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=16302025600"
+  scopus           : # URL
   zotero           : # URL
 
 
@@ -57,6 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
+  bilibili         : "594039270" # User ID
   bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
