@@ -5,55 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<style>
-.pull-quote {
-  margin: 1.5em 0;
-  padding: 0.2em 0 0.2em 1.2em;
-  border-left: 4px solid rgba(128,128,128,0.4);
-  font-size: 1.15em;
-  font-style: italic;
-  line-height: 1.5;
-}
-.pull-quote cite {
-  display: block;
-  margin-top: 0.5em;
-  font-style: normal;
-  font-size: 0.85em;
-  opacity: 0.75;
-}
-.research-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.2em;
-  margin: 1.5em 0 2em;
-}
-.research-card {
-  border: 1px solid rgba(128,128,128,0.25);
-  border-radius: 8px;
-  padding: 1.2em 1.4em;
-}
-.research-card .research-icon {
-  font-size: 1.3em;
-  margin-bottom: 0.5em;
-  opacity: 0.85;
-}
-.research-card h4 {
-  margin: 0 0 0.5em;
-}
-.research-card p {
-  margin: 0;
-  font-size: 0.95em;
-}
-.research-card ul {
-  margin: 0.5em 0 0;
-  padding-left: 1.2em;
-  font-size: 0.95em;
-}
-.research-card li {
-  margin-bottom: 0.3em;
-}
-</style>
-
 Our Vision
 ======
 We are a research group specializing in computational materials science. We aim to gain insights into critical materials phenomena by understanding materials at the atomistic level, combined with predictive computational modeling for materials discovery and innovation. This includes designing and discovering new materials with exceptional performance, overcoming materials limitations in critical technologies (e.g., energy, efficiency, computing), and accelerating the innovation of new technologies driven by new materials.
@@ -82,10 +33,10 @@ Click through any topic below to read more.
 
 {% include base_path %}
 
-<div class="research-grid">
+<div class="card-grid">
 {% for topic in site.research %}
-  <div class="research-card">
-    <div class="research-icon"><i class="fas fa-{{ topic.icon }}" aria-hidden="true"></i></div>
+  <div class="info-card">
+    <div class="card-icon"><i class="fas fa-{{ topic.icon }}" aria-hidden="true"></i></div>
     <h4><a href="{{ base_path }}{{ topic.url }}">{{ topic.title }}</a></h4>
     <p>{{ topic.excerpt }}</p>
   </div>
