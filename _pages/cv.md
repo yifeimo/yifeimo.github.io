@@ -37,10 +37,8 @@ Research interests
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+See the full list on the [Publications page](/publications/).
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
