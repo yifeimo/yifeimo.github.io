@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap"> <a href="{{site.author.googlescholar}}">Google Scholar profile</a></div>
+  <div class="wordwrap"><a href="{{site.author.googlescholar}}"><i class="fab fa-google-scholar" aria-hidden="true"></i> Google Scholar profile</a></div>
 {% endif %}
 
-<div class="wordwrap">Also see our <a href="#patents">Patents</a> below.</div>
+<div class="wordwrap">Also see our <a href="#patents"><i class="fas fa-lightbulb" aria-hidden="true"></i> Patents</a> below.</div>
 
 *(\* corresponding author, <sup>#</sup> Mo group member, <sup>1</sup> co-first author)*
 
@@ -209,7 +209,7 @@ author_profile: true
 
 **1.** Yifei Mo, Izabela Szlufarska, "Simultaneous enhancement of toughness, ductility, and strength of nanocrystalline ceramics at high strain-rates", [***Applied Physics Letters***, 90, 181926 (2007)](http://dx.doi.org/10.1063/1.2736652)
 
-<h2 id="patents">Patents</h2>
+<h2 id="patents"><i class="fas fa-lightbulb" aria-hidden="true"></i> Patents</h2>
 
 1. Y. Mo, Q. Bai, A. Epstein, C. Ling, Y. Zhang, "Lithium metal nitrides as lithium super-ionic conductors," US Patent 12,278,332
 2. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium phosphate derivative compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 12,206,069
