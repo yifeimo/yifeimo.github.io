@@ -16,7 +16,6 @@ We are a computational materials science group in Materials Science and Engineer
 **Research** We study materials from the atomic level, and connect that to the material properties/phenomena/behavior critical for enabling new technologies and applications.
 
 **Topics (some of)**
-
 * Computational materials design and discovery
 * Synthesis science
 * Ion-conducting materials, including solid electrolytes/electrodes for solid-state batteries and other energy/computing devices
