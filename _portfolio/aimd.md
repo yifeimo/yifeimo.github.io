@@ -1,5 +1,5 @@
 ---
-title: "AIMD Diffusion Analysis Toolkit"
+title: "AIMD Diffusion Error Analysis Toolkit"
 repo: "aimd"
 excerpt: 'A Python toolkit for diffusion analysis from ab initio molecular dynamics (AIMD) simulations, with a command-line tool for single- and multi-temperature diffusivity and Arrhenius analysis.<br><span class="citation">[*npj Comput. Mater.* 4, 18 (2018)](https://doi.org/10.1038/s41524-018-0074-y)</span>'
 collection: portfolio

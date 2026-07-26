@@ -1,5 +1,5 @@
 ---
-title: "Interface Stability Analysis Toolkit"
+title: "Electrochemical & Interface Stability Analysis Toolkit"
 repo: "interface_stability"
 excerpt: 'A Python package for analyzing the thermodynamic stability of solid electrolyte–electrode interfaces in all-solid-state batteries.<br><span class="citation">[*ACS Appl. Mater. Interfaces* 7, 23685-23693 (2015)](http://dx.doi.org/10.1021/acsami.5b07517); [*J. Mater. Chem. A* 4, 3253-3266 (2016)](http://dx.doi.org/10.1039/C5TA08574H); [*Adv. Sci.* 1600517 (2017)](http://dx.doi.org/10.1002/advs.201600517)</span>'
 collection: portfolio

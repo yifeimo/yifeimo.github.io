@@ -1,5 +1,5 @@
 ---
-title: "Topological Site Analysis for Crystal Structures"
+title: "Topological Site & Diffusion Analysis for Crystal Structures"
 repo: "Topological_Analysis"
 excerpt: 'A Python library for topological analysis of interstitial sites in oxide and sulfide crystal structures, based on Voronoi analysis.<br><span class="citation">[*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078)</span>'
 collection: portfolio
