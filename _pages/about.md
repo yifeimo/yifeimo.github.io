@@ -7,16 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-Yifei Mo is a Professor in the Department of Materials Science and Engineering and the Maryland Energy Innovation Institute at the University of Maryland, College Park. He received his Ph.D. from the University of Wisconsin-Madison (2010) and was a Postdoctoral Research Associate at the Massachusetts Institute of Technology (2010-2013).
+We are a computational materials science group in Materials Science and Engineering (MSE) at the University of Maryland-College Park.
 
-The Mo Group uses first-principles calculations, molecular dynamics simulations, and large-scale atomistic modeling to discover and design new materials for critical energy storage and conversion technologies, including solid-state batteries, solid oxide fuel cells, and membrane materials.
-
-Research Interests
+Vision
 ======
-* Computational materials science and materials discovery
-* First-principles and large-scale atomistic simulation
-* Solid-state electrolytes and solid-state batteries
-* Beyond Li-ion battery chemistries
-* Surfaces, interfaces, and nanomaterials
+We believe in a future where new technologies are enabled by new materials, which are rapidly predicted by computation and AI. We want to build that future.
 
-See the full [Research page](/research/) for more on our vision, approach, and research areas.
+Approach
+======
+Atomistic modeling methods (DFT, MD, MC, etc.) combined with AI/ML and other computational techniques.
+
+Research
+======
+We study materials from the atomic level, and connect that to the material properties/phenomena/behavior critical for enabling new technologies and applications.
+
+Topics (some of)
+======
+* Computational materials design and discovery
+* Synthesis science
+* Ion-conducting materials, including solid electrolytes/electrodes for solid-state batteries and other energy/computing devices
+* Large-scale atomistic modeling
+* Interfaces and interphases
+* AI/machine learning for materials science
+* Nanomaterials  
+* High-entropy materials
+* Quantum computing
