@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap"> <a href="{{site.author.googlescholar}}">Google Scholar profile</a></div>
 {% endif %}
 
+<div class="wordwrap">Also see our <a href="#patents">Patents</a> below.</div>
+
 *(\* corresponding author, <sup>#</sup> Mo group member, <sup>1</sup> co-first author)*
 
 **98.** Felix Adams<sup>#</sup>, Ichiro Takeuchi, Carlos A Ríos Ocampo, Yifei Mo\*, "First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials", arXiv:2604.27120
@@ -206,3 +208,30 @@ author_profile: true
 **2.** M. Wojdyr, Y. Mo, E. Grzanka, S. Stelmakh, S. Gierlotka, Th. Proffen, TW. Zerda, B. Palosz, I. Szlufarska, "Transition of nc-SiC powder surface into grain boundaries during sintering by molecular dynamics simulation and neutron powder diffraction", ***Zeitschrift fur Krystallographie***, Suppl. 26, 255 (2007)
 
 **1.** Yifei Mo, Izabela Szlufarska, "Simultaneous enhancement of toughness, ductility, and strength of nanocrystalline ceramics at high strain-rates", [***Applied Physics Letters***, 90, 181926 (2007)](http://dx.doi.org/10.1063/1.2736652)
+
+<h2 id="patents">Patents</h2>
+
+1. Y. Mo, Q. Bai, A. Epstein, C. Ling, Y. Zhang, "Lithium metal nitrides as lithium super-ionic conductors," US Patent 12,278,332
+2. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium phosphate derivative compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 12,206,069
+3. Y. Mo, Y. Liu, C. Ling, "LiZnCl4 derivatives in the group of Pmn21 as Li super-ionic conductor, solid electrolyte, and coating layer for Li metal battery and Li-ion battery," US Patent 12,034,113
+4. C. Ling, Y. Zhang, Y. Mo, Q. Bai, "Fluoride compounds as lithium super-ionic conductors, solid electrolyte and coating layer for lithium metal battery and lithium ion battery," US Patent 11,855,257
+5. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium phosphate derivative compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 11,784,346
+6. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium phosphate derivative compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 11,705,577
+7. C. Ling, Y. Zhang, Y. Mo, Q. Bai, "Fluoride compounds as lithium super-ionic conductors, solid electrolyte and coating layer for lithium metal battery and lithium ion battery," US Patent 11,670,799
+8. Y. Mo, Y. Liu, C. Ling, "Metal lithium chloride derivatives in the space group of P21/c as Li super-ionic conductor, solid electrolyte, and coating layer for Li metal battery and Li-ion battery," US Patent 11,641,029
+9. Y. Mo, X. He, C. Ling, Y. Zhang, "Silicate compounds as solid Li-ion conductors," US Patent 11,581,573
+10. Y. Mo, Q. Bai, A. Epstein, C. Ling, Y. Zhang, "Lithium metal nitrides as lithium super-ionic conductors," US Patent 11,581,572
+11. Y. Mo, Y. Liu, X. He, C. Ling, "LiAlCl4 derivatives in the space group of Pnma as Li super-ionic conductor, solid electrolyte, and coating layer for Li metal battery and Li-ion battery," US Patent 11,462,766
+12. Y. Mo, X. He, Q. Bai, C. Ling, Y. Zhang, "Lithium bismuth oxide compounds as Li super-ionic conductor, solid electrolyte, and coating layer for Li metal battery and Li-ion battery," US Patent 11,152,640
+13. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium potassium tantalate compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 11,145,896
+14. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium phosphate derivative compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 11,056,717
+15. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium potassium element oxide compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 11,018,375
+16. L. Hu, X. Han, E. Wachsman, Y. Mo, "Interfacial layers for solid-state batteries and methods of making same," US Patent 10,971,761
+17. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium silicate compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 10,938,063
+18. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium metal sulfides as lithium super ionic conductors, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 10,923,763
+19. Y. Mo, X. He, C. Ling, Y. Zhang, "Lithium metal sulfides as lithium super-ionic conductors," US Patent 10,854,916
+20. C. Ling, Y. Zhang, Y. Mo, Q. Bai, "Fluoride compounds as lithium super-ionic conductors, solid electrolyte and coating layer for lithium metal battery and lithium ion battery," US Patent 10,854,915
+21. Y. Mo, X. He, C. Ling, Y. Zhang, "Borate compounds as Li super-ionic conductor, solid electrolyte, and coating layer for Li metal battery and Li-ion battery," US Patent 10,818,969
+22. Y. Mo, X. He, C. Ling, Y. Zhang, "Silicate compounds as solid Li-ion conductors," US Patent 10,714,788
+23. W. Richards, S. Ong, Y. Mo, G. Ceder, L. Miara, T. Tsujimura, Y. Wang, Y. Ryu, N. Suzuki, I. Uechi, "Sodium-conducting solid electrolyte," US Patent 9,966,629
+24. L. Miara, W. Richards, S. Ong, Y. Mo, G. Ceder, "Screening solid state ionic conductors for high ionic conductivity," US Patent 9,904,772
