@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap"><a href="{{site.author.googlescholar}}"><i class="fab fa-google-scholar" aria-hidden="true"></i> Google Scholar profile</a></div>
 {% endif %}
 
-<div class="wordwrap">Also see our <a href="#patents"><i class="fas fa-lightbulb" aria-hidden="true"></i> Patents</a> below.</div>
+<div class="wordwrap"><a href="#patents"><i class="fas fa-lightbulb" aria-hidden="true"></i> Patents</a></div>
 
 *(\* corresponding author, <sup>#</sup> Mo group member, <sup>1</sup> co-first author)*
 
