@@ -4,7 +4,7 @@ collection: research
 permalink: /research/ai-for-science/
 icon: robot
 order: 2
-excerpt: "Using AI/ML as a research assistant — understandable, physically grounded, and rigorously tested — to accelerate materials discovery."
+excerpt: "Developing AI/ML that are understandable, physically grounded, and rigorously tested to accelerate scientific discovery."
 ---
 
 While powerful, AI/ML methods are often viewed as black boxes. We treat AI/ML as a research assistant, not a replacement for physical understanding:
