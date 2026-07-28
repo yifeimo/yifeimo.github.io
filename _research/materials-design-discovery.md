@@ -25,7 +25,7 @@ Topics
 ### Li/Na Superionic Conductors (Solid electrolytes)
 <span class="citation">[*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3); [*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078); [*Adv. Energy Mater.* 9, 1803821 (2019)](https://doi.org/10.1002/aenm.201803821)</span>
 
-**Halide Conductors**
+**Halide**
 <span class="citation">[*Angew. Chem. Int. Ed.* 59, 8039-8043 (2019)](https://doi.org/10.1002/anie.201901938); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span>
 
 **Mixed-Anion Chemistries**
