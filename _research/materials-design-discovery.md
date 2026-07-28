@@ -37,8 +37,10 @@ Topics
 **Nitride**
 <span class="citation">[*Nat. Nanotechnol.* 20, 265-275 (2024)](https://doi.org/10.1038/s41565-024-01813-z); [*Adv. Sci.* 1600517 (2017)](http://dx.doi.org/10.1002/advs.201600517); [US Patents 12,278,332 & 11,581,572](/publications/#patents)</span>
 
-### Proton or Oxygen-Ion Conductors (for SOFC/SOEC)
+### Oxygen-Ion Conductors (for SOFC/SOEC)
 <span class="citation">[*Materials Today* 86, 247-254 (2025)](https://doi.org/10.1016/j.mattod.2025.03.030)</span>
+
+### Proton Conductors (for SOFC/SOEC)
 <span class="citation">[*Chem. Mater.* 32, 5028-5035 (2020)](https://doi.org/10.1021/acs.chemmater.0c00544); [*Chem. Mater.* 33, 8278-8288 (2021)](https://doi.org/10.1021/acs.chemmater.1c02432); [*Chem. Mater.* 34, 5938-5948 (2022)](https://doi.org/10.1021/acs.chemmater.2c00867)</span>
 
 
