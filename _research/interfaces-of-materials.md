@@ -3,7 +3,7 @@ title: "Interfaces of Materials"
 collection: research
 permalink: /research/interfaces-of-materials/
 icon: layer-group
-order: 5
+order: 3
 excerpt: "We evaluate interface stability and compatibility — crucial for both application and processing — revealing degradation and guiding protective coatings, and resolve buried-interface dynamics and failure at an atomic and time resolution hard to access experimentally."
 ---
 
