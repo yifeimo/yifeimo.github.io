@@ -9,13 +9,13 @@ excerpt: "We design and discover materials through high-throughput computation a
 
 We design and discover materials through high-throughput computation combined with machine learning and AI. <span class="citation">[*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078); [*Nat. Commun.* 10, 5260 (2019)](https://doi.org/10.1038/s41467-019-13214-1); [*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span>
 
-Unlike computational studies that consider only a single property, our materials design and discovery accounts for the full, comprehensive set of aspects that determine whether a material actually works in application:
+Unlike many computational studies that consider only a single property, our materials design and discovery accounts for the full, comprehensive set of aspects that determine whether a material actually works in application:
 
 * **Phase stability.** <span class="citation">[*Joule* 2, 2016-2046 (2018)](https://doi.org/10.1016/j.joule.2018.08.017)</span>
-* **Synthesizability.** <span class="citation">[*J. Am. Chem. Soc.* 140, 17290-17296 (2018)](https://doi.org/10.1021/jacs.8b11029)</span>
 * **Electrochemical stability.** <span class="citation">[*ACS Appl. Mater. Interfaces* 7, 23685-23693 (2015)](http://dx.doi.org/10.1021/acsami.5b07517); [*J. Mater. Chem. A* 4, 3253-3266 (2016)](http://dx.doi.org/10.1039/C5TA08574H); [*Adv. Sci.* 1600517 (2017)](http://dx.doi.org/10.1002/advs.201600517)</span>
 * **Interface stability and compatibility**, essential for materials to work in a device. <span class="citation">[*ACS Appl. Mater. Interfaces* 7, 23685-23693 (2015)](http://dx.doi.org/10.1021/acsami.5b07517); [*J. Mater. Chem. A* 4, 3253-3266 (2016)](http://dx.doi.org/10.1039/C5TA08574H)</span>
 * **Interface coatings**, to further stabilize interfaces so materials can work in a device. <span class="citation">[*Adv. Sci.* 1600517 (2017)](http://dx.doi.org/10.1002/advs.201600517); [*ACS Energy Lett.* 4, 2444-2451 (2019)](https://doi.org/10.1021/acsenergylett.9b01703); [*Energy Storage Mater.* 41, 571-580 (2021)](https://doi.org/10.1016/j.ensm.2021.06.027)</span>
+* **Synthesizability.** <span class="citation">[*J. Am. Chem. Soc.* 140, 17290-17296 (2018)](https://doi.org/10.1021/jacs.8b11029)</span>
 * **Thermal stability**, relevant to safety and processing. <span class="citation">[*Joule* 4(4), 812-821 (2020)](https://doi.org/10.1016/j.joule.2020.03.012)</span>
 * **Moisture stability**, relevant to cost and processing. <span class="citation">[*Angew. Chem. Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)</span>
 
