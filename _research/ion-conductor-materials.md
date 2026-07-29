@@ -4,7 +4,7 @@ collection: research
 permalink: /research/materials-design-discovery/
 output: false
 icon: bolt
-order: 5
+order: 6
 excerpt: "Ion-conducting materials are the foundation of solid electrolytes for solid-state batteries, and of solid oxide fuel cells (SOFCs) and electrolyzer cells (SOECs) — critical materials for energy storage and conversion."
 ---
 
