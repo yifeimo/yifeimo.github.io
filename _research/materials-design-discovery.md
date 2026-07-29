@@ -18,6 +18,7 @@ Unlike many computational studies that consider only a single property, our mate
 * **Synthesizability.** <span class="citation">[*J. Am. Chem. Soc.* 140, 17290-17296 (2018)](https://doi.org/10.1021/jacs.8b11029)</span>
 * **Thermal stability**, relevant to safety and processing. <span class="citation">[*Joule* 4(4), 812-821 (2020)](https://doi.org/10.1016/j.joule.2020.03.012)</span>
 * **Moisture stability**, relevant to cost and processing. <span class="citation">[*Angew. Chem. Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)</span>
+* **Doping, substitution, and mixture**, often needed to improve materials properties and performance — computation can help prescreen candidates and narrow down the composition space. <span class="citation">[*Ionics* 24, 1139-1151 (2018)](https://doi.org/10.1007/s11581-017-2268-6); [*ACS Energy Lett.* 9, 5334-5340 (2024)](https://doi.org/10.1021/acsenergylett.4c02060); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356); [*Chem. Mater.* 25, 3048-3055 (2013)](https://doi.org/10.1021/cm401232r); [*Energy Environ. Sci.* 6, 148-156 (2013)](https://doi.org/10.1039/c2ee23355j); arXiv:2604.27120</span>
 
 Topics
 ------
