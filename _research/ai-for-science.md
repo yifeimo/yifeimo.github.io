@@ -14,7 +14,7 @@ Rather than treating AI/ML as a black box, we develop and apply it to be reliabl
 * **Physical insights by AI.** We leverage AI/ML to reveal new physical mechanisms that weren't accessible before.
 * **Materials discovery by AI.** We accelerate materials discovery using AI/ML.
 
-Success Cases
+Examples of our studies
 ------
 
 * **Reliable MLIP benchmarking.** We showed that standard error metrics for machine learning interatomic potentials (MLIPs) are insufficient to guarantee accurate atomistic dynamics, proposed rare-event-based evaluation metrics instead, and benchmarked thousands of MLIP models to reveal inherent trade-offs between properties. <span class="citation">[*npj Comput. Mater.* 9, 174 (2023)](https://doi.org/10.1038/s41524-023-01123-3); [*npj Comput. Mater.* 10, 159 (2024)](https://doi.org/10.1038/s41524-024-01333-3); [*Acta Mater.* 268, 119742 (2024)](https://doi.org/10.1016/j.actamat.2024.119742)</span>
