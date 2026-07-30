@@ -23,6 +23,7 @@ Unlike many computational studies that consider only a single property, our mate
 Topics
 ------
 
+* **High-Throughput Computation and ML Materials Discovery** <span class="citation">[*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078); [*Nat. Commun.* 10, 5260 (2019)](https://doi.org/10.1038/s41467-019-13214-1); [*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span>
 * **Li-ion Conductors (Solid electrolytes)** <span class="citation">[*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078); [*Adv. Energy Mater.* 9, 1803821 (2019)](https://doi.org/10.1002/aenm.201803821)</span>
 * **Na-ion Conductors (Solid electrolytes)** <span class="citation">[*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3)</span>
 * **Halide** <span class="citation">[*Angew. Chem. Int. Ed.* 59, 8039-8043 (2019)](https://doi.org/10.1002/anie.201901938); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span>
