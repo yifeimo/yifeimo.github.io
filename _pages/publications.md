@@ -92,6 +92,7 @@ author_profile: true
 **63.** Tangyuan Li<sup>1</sup>, Yonggang Yao<sup>1</sup>, Zhennan Huang<sup>1</sup>, Pengfei Xie<sup>1</sup>, Zhenyu Liu<sup>1</sup>, Menghao Yang<sup>1#</sup>, Jinlong Gao, Kaizhu Zeng, Alexandra H. Brozena, Glenn Pastel, Miaolun Jiao, Qi Dong, Jiaqi Dai, Shuke Li, Han Zong, Miaofang Chi, Jian Luo, Yifei Mo<sup>#</sup>, Guofeng Wang, Chao Wang, Reza Shahbazian-Yassar, Liangbing Hu, "Denary oxide nanoparticles as highly stable catalysts for methane combustion", [***Nature Catalysis*** 4, 62--70 (2021)](https://doi.org/10.1038/s41929-020-00554-1)
 
 **62.** Yunsheng Liu, Shuo Wang, Adelaide M. Nolan, Chen Ling, Yifei Mo\*, "Tailoring the Cation Lattice for Chloride Lithium-Ion Conductors", [***Advanced Energy Materials*** 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Predicted halide spinels could be converted from poor to good Li-ion conductors by reducing cation concentration — confirmed experimentally in [*J. Am. Chem. Soc.* 148, 692-704 (2026)](https://doi.org/10.1021/jacs.5c15656) and [*Energy Environ. Sci.* 13, 2056-2063 (2020)](https://doi.org/10.1039/d0ee01017).</span>
 
 **61.** Yizhou Zhu\*, Yifei Mo\*, "Materials Design Principles for Air-Stable Lithium/Sodium Solid Electrolytes", [***Angewandte Chemie** Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)
 
