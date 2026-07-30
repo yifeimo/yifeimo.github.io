@@ -50,7 +50,7 @@ author_profile: true
 **81.** Yunsheng Liu, Xingfeng He, Yifei Mo\*, "The Discrepancies and Error Evaluation Metrics for Machine Learning Interatomic Potentials on Simulating Atom Dynamics". [***NPJ Computational Materials*** 9, 174 (2023)](https://doi.org/10.1038/s41524-023-01123-3)
 
 **80.** Menghao Yang, Yunsheng Liu, Yifei Mo\*, "Lithium Crystallization at Solid Interfaces", [***Nature Communications***, 14, 2986 (2023)](https://doi.org/10.1038/s41467-023-38757-2)
-<br><span class="citation" style="display: block; margin-left: 1.5em;">Predicted the amorphous-to-BCC Li deposition pathway at solid-electrolyte interfaces — later confirmed experimentally in [*Nat. Mater.* 24, 581-588 (2025)](https://doi.org/10.1038/s41563-024-02094-6).</span>
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Predicted the amorphous-to-BCC Li deposition pathway at solid-electrolyte interfaces — later confirmed experimentally in [*Nat. Mater.* 24, 581-588 (2025)](https://doi.org/10.1038/s41563-024-02094-6).</span>
 
 **79.** Shuo Wang, Yunsheng Liu, Yifei Mo\*, "Frustration in Super-Ionic Conductors Unraveled by the Density of Atomistic States". [***Angewandte Chemie Int. Ed.*** 62, e202215544 (2023)](https://doi.org/10.1002/anie.202215544) *(Very Important Paper ­--top 5% ranked by all reviewers*; [Hot topic: Artificial Intelligence and Machine Learning](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2513-0390.hottopic-artificialintelligence)*)*
 
