@@ -37,6 +37,7 @@ Computation Prediction Confirmed
 ------
 
 * Discovered the UCl3-type structure as a new Na-ion conductor framework <span class="citation">[*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3)</span> **→** experimentally validated as a high-performance Na-ion conductor <span class="citation">[*Adv. Mater.* 36, 230812 (2024)](https://doi.org/10.1002/adma.202308012)</span>, and confirmed to also enable fast Li-ion conduction <span class="citation">[*J. Am. Chem. Soc.* 145, 2183-2194 (2023)](https://doi.org/10.1021/jacs.2c09446)</span>
+* Predicted LiTaSiO5 (sphene-structured) as a new fast Li-ion conductor, guided by our concerted-migration and crystal-framework design principles <span class="citation">[*Nat. Commun.* 8, 15893 (2017)](http://dx.doi.org/10.1038/ncomms15893); [*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078)</span> **→** confirmed experimentally <span class="citation">[*Adv. Energy Mater.* 9, 1803821 (2019)](https://doi.org/10.1002/aenm.201803821); [*Adv. Funct. Mater.* 29, 1904232 (2019)](https://doi.org/10.1002/adfm.201904232)</span>
 
 Related Talks
 ------
