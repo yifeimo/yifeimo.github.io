@@ -73,7 +73,7 @@ author_profile: true
 **70.** Adelaide M. Nolan<sup>#</sup>, Darshana Wickramaratne, Noam Bernstein, Yifei Mo\*, Michelle D. Johannes\*, "Li<sup>+</sup> Diffusion in Amorphous and Crystalline Al<sub>2</sub>O<sub>3</sub> for Battery Electrode Coatings", [***Chemistry of Materials*** 33, 19, 7795--7804 (2021)](https://doi.org/10.1021/acs.chemmater.1c02239)
 
 **69.** Menghao Yang, Yifei Mo\*, "Interfacial Defect of Lithium Metal in Solid-State Batteries", [***Angewandte Chemie Int. Ed.*** 60, 21494, (2021)](https://doi.org/10.1002/anie.202108144) *(Very Important Paper ­-- top 5% ranked by all reviewers)*
-<br><span class="citation">Predicted that Li(110)/solid-electrolyte interfaces resist nanopore formation and enable higher cycling rates — later confirmed experimentally in [*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4).</span>
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Predicted a nanometer-thin amorphous Li layer at the Li/solid-electrolyte interface, and that Li(110)/solid-electrolyte interfaces resist nanopore formation and enable higher cycling rates — later confirmed experimentally in [*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4).</span>
 
 **68.** Shumin Zhang<sup>1</sup>, Feipeng Zhao<sup>1</sup>, Shuo Wang<sup>1#</sup>, Jianwen Liang, Jian Wang, Changhong Wang, Hao Zhang, Keegan Adair, Weihan Li, Minsi Li, Hui Duan, Yang Zhao, Ruizhi Yu, Ruying Li, Huan Huang, Li Zhang, Shangqian Zhao, Shigang Lu, Tsun-Kong Sham\*, Yifei Mo\*, Xueliang Sun\*, "Advanced High-Voltage All-Solid-State Li-Ion Batteries Enabled by a Dual-Halogen Solid Electrolyte", [***Advanced Energy Materials*** 11, 2100836 (2021)](https://doi.org/10.1002/aenm.202100836)
 
