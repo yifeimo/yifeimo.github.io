@@ -48,6 +48,11 @@ Topics
 <span class="citation">[*Chem. Mater.* 32, 5028-5035 (2020)](https://doi.org/10.1021/acs.chemmater.0c00544); [*Chem. Mater.* 33, 8278-8288 (2021)](https://doi.org/10.1021/acs.chemmater.1c02432); [*Chem. Mater.* 34, 5938-5948 (2022)](https://doi.org/10.1021/acs.chemmater.2c00867)</span>
 
 
+Computation Prediction Confirmed
+------
+
+* Discovered the UCl3-type structure as a new Na-ion conductor framework <span class="citation">[*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3)</span> **→** experimentally validated as a high-performance Na-ion conductor <span class="citation">[*Adv. Mater.* 36, 230812 (2024)](https://doi.org/10.1002/adma.202308012)</span>, and confirmed to also enable fast Li-ion conduction <span class="citation">[*J. Am. Chem. Soc.* 145, 2183-2194 (2023)](https://doi.org/10.1021/jacs.2c09446)</span>
+
 Related Talks
 ------
 * [Computational Design Principles for Na-Ion Conductors](https://youtu.be/l68FTwzsMtI)
