@@ -76,8 +76,8 @@ author_profile: true
 **70.** Adelaide M. Nolan<sup>#</sup>, Darshana Wickramaratne, Noam Bernstein, Yifei Mo\*, Michelle D. Johannes\*, "Li<sup>+</sup> Diffusion in Amorphous and Crystalline Al<sub>2</sub>O<sub>3</sub> for Battery Electrode Coatings", [***Chemistry of Materials*** 33, 19, 7795--7804 (2021)](https://doi.org/10.1021/acs.chemmater.1c02239)
 
 **69.** Menghao Yang, Yifei Mo\*, "Interfacial Defect of Lithium Metal in Solid-State Batteries", [***Angewandte Chemie Int. Ed.*** 60, 21494, (2021)](https://doi.org/10.1002/anie.202108144) *(Very Important Paper ­-- top 5% ranked by all reviewers)*
-<div class="citation" style="margin-left: 2.2em;">Discovered a nanometer-thin amorphous Li layer at the Li/solid-electrolyte interface.</div>
-<div class="citation" style="margin-left: 2.2em;">Predicted that Li(110)/solid-electrolyte interfaces resist nanopore formation and enable higher cycling rates — later confirmed experimentally in [*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4).</div>
+<div class="citation" markdown="span" style="margin-left: 2.2em;">Discovered a nanometer-thin amorphous Li layer at the Li/solid-electrolyte interface.</div>
+<div class="citation" markdown="span" style="margin-left: 2.2em;">Predicted that Li(110)/solid-electrolyte interfaces resist nanopore formation and enable higher cycling rates — later confirmed experimentally in [*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4).</div>
 
 **68.** Shumin Zhang<sup>1</sup>, Feipeng Zhao<sup>1</sup>, Shuo Wang<sup>1#</sup>, Jianwen Liang, Jian Wang, Changhong Wang, Hao Zhang, Keegan Adair, Weihan Li, Minsi Li, Hui Duan, Yang Zhao, Ruizhi Yu, Ruying Li, Huan Huang, Li Zhang, Shangqian Zhao, Shigang Lu, Tsun-Kong Sham\*, Yifei Mo\*, Xueliang Sun\*, "Advanced High-Voltage All-Solid-State Li-Ion Batteries Enabled by a Dual-Halogen Solid Electrolyte", [***Advanced Energy Materials*** 11, 2100836 (2021)](https://doi.org/10.1002/aenm.202100836)
 
@@ -121,7 +121,7 @@ author_profile: true
 **49.** Ying Zhang, Xingfeng He<sup>#</sup>, Zhiqian Chen, Qiang Bai<sup>#</sup>, Adelaide M Nolan<sup>#</sup>, Charles A. Roberts, Debasish Banerjee, Tomoya Matsunaga, Yifei Mo\*, Chen Ling\*, "Unsupervised Discovery of Solid-State Lithium Ion Conductors", [***Nature Communications***, 10, 5260 (2019)](https://doi.org/10.1038/s41467-019-13214-1) *(Editor's choice in Energy Storage Materials; [Top 50 Chemistry and Materials Sciences Articles](https://www.nature.com/collections/giacagiaca); Top 25 Most Read Article in Chemistry and Materials Science)*
 
 **48.** Xingfeng He<sup>1</sup>, Qiang Bai<sup>1</sup>, Yunsheng Liu, Adelaide M. Nolan, Chen Ling, Yifei Mo\*, "Crystal Structural Framework of Lithium Super-Ionic Conductors", [***Advanced Energy Materials*** 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078) *(Featured [inside front cover](https://doi.org/10.1002/aenm.201970169))*
-<div class="citation" style="margin-left: 2.2em;">Computationally predicted LiTaSiO5 as a new fast Li-ion conductor — confirmed experimentally in [*Adv. Energy Mater.* 9, 1803821 (2019)](https://doi.org/10.1002/aenm.201803821) and [*Adv. Funct. Mater.* 29, 1904232 (2019)](https://doi.org/10.1002/adfm.201904232).</div>
+<div class="citation" markdown="span" style="margin-left: 2.2em;">Computationally predicted LiTaSiO5 as a new fast Li-ion conductor — confirmed experimentally in [*Adv. Energy Mater.* 9, 1803821 (2019)](https://doi.org/10.1002/aenm.201803821) and [*Adv. Funct. Mater.* 29, 1904232 (2019)](https://doi.org/10.1002/adfm.201904232).</div>
 
 **47.** Adelaide M. Nolan, Yunsheng Liu, Yifei Mo\*, "Solid-State Chemistries Stable with High-Energy Cathodes for Lithium-Ion Batteries", [***ACS Energy Letters*** 4, 2444-2451 (2019)](https://doi.org/10.1021/acsenergylett.9b01703)
 
@@ -132,7 +132,7 @@ author_profile: true
 **44.** Shuo Wang<sup>#</sup>, Qiang Bai<sup>#</sup>, Adelaide M. Nolan<sup>#</sup>, Yunsheng Liu<sup>#</sup>, Sheng Gong, Qiang Sun\*, Yifei Mo\*, "Lithium Chlorides and Bromides as Promising Solid-State Chemistries for Fast Ion Conductors with Good Electrochemical Stability", [***Angewandte Chemie** Int. Ed.* 59, 8039-8043 (2019)](https://doi.org/10.1002/anie.201901938) *(ESI Highly Cited Paper)*
 
 **43.** Shan Xiong<sup>1</sup>, Xingfeng He<sup>1#</sup>, Aijie Han<sup>1</sup>, Zhantao Liu, Brian McElhenny, Adelaide M Nolan<sup>#</sup>, Shuo Chen\*, Yifei Mo**\***, Hailong Chen\*, "Computation Guided Design of LiTaSiO<sub>5</sub>, a New Lithium Ionic Conductor with Sphene Structure", [***Advanced Energy Materials*** 9, 1803821 (2019)](https://doi.org/10.1002/aenm.201803821)
-<div class="citation" style="margin-left: 2.2em;">Synthesized LiTaSiO5 predicted by computation as a new fast Li-ion conductor — independently confirmed experimentally in [*Adv. Funct. Mater.* 29, 1904232 (2019)](https://doi.org/10.1002/adfm.201904232).</div>
+<div class="citation" markdown="span" style="margin-left: 2.2em;">Synthesized LiTaSiO5 predicted by computation as a new fast Li-ion conductor — independently confirmed experimentally in [*Adv. Funct. Mater.* 29, 1904232 (2019)](https://doi.org/10.1002/adfm.201904232).</div>
 
 **42.** Juan de Pablo, Nicholas Jackson, Michael Webb, Long-Qing Chen, Joel Moore, Dane Morgan, Ryan Jacobs, Tresa Pollock, Darrel schlom, Eric Toberer, James Analytis, Ismaila Dabo, Dean DeLongchamp, Gregory Fiete, Gregory M. Grason, Geoffroy Hautier, Yifei Mo, Krishna Rajan, Evan Reed, Efrain Rodriguez, Vladan Stevanovic, Jin Suntivich, Katsuyo Thornton, Ji-Cheng Zhao, "New Frontiers for the Materials Genome Initiative", [***npj Computational Materials*** 5, 41 (2019)](https://doi.org/10.1038/s41524-019-0173-4)
 
