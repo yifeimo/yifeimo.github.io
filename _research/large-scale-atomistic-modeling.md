@@ -17,4 +17,4 @@ We develop and employ large-scale atomistic simulations to study materials pheno
 Computation Prediction Confirmed
 ------
 
-* In <span class="citation">[*Angew. Chem. Int. Ed.* 60, 21494 (2021)](https://doi.org/10.1002/anie.202108144)</span>, we predicted that Li(110)/solid-electrolyte interfaces resist interfacial nanopore formation and enable much higher cycling rates by preserving interfacial contact → confirmed experimentally: an annealing strategy fabricated Li(110)/SE-SEI interfaces with the predicted enhanced performance <span class="citation">[*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4)</span>
+*  We predicted that Li(110)/solid-electrolyte interfaces resist interfacial nanopore formation and enable much higher cycling rates by preserving interfacial contact <span class="citation">[*Angew. Chem. Int. Ed.* 60, 21494 (2021)](https://doi.org/10.1002/anie.202108144)</span> → confirmed experimentally: an annealing strategy fabricated Li(110)/SE-SEI interfaces with the predicted enhanced performance <span class="citation">[*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4)</span>
