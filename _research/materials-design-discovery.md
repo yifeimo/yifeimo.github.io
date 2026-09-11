@@ -20,11 +20,6 @@ Unlike many computational studies that consider only a single property, our mate
 * **Moisture stability**, relevant to cost and processing. <span class="citation">[*Angew. Chem. Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)</span>
 * **Doping, substitution, and mixture**, often needed to improve materials properties and performance — computation can help prescreen candidates and narrow down the composition space. <span class="citation">[*Ionics* 24, 1139-1151 (2018)](https://doi.org/10.1007/s11581-017-2268-6); [*ACS Energy Lett.* 9, 5334-5340 (2024)](https://doi.org/10.1021/acsenergylett.4c02060); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356); [*Chem. Mater.* 25, 3048-3055 (2013)](https://doi.org/10.1021/cm401232r); [*Energy Environ. Sci.* 6, 148-156 (2013)](https://doi.org/10.1039/c2ee23355j); arXiv:2604.27120</span>
 
-Highlights
-------
-
-* **World-record halide superionic conductor.** By tuning collective anion motion through mixed-anion (Cl/Br) substitution, we achieved a world-record room-temperature ionic conductivity for halide solid electrolytes <span class="citation">[*Nat. Chem.* 16, 1584-1591 (2024)](https://doi.org/10.1038/s41557-024-01634-6)</span>, guided and revealed by our Density of Atomistic States (DOAS) computation <span class="citation">[*Angew. Chem. Int. Ed.* 62, e202215544 (2023)](https://doi.org/10.1002/anie.202215544)</span>
-
 Topics
 ------
 
@@ -39,9 +34,10 @@ Topics
 * **Proton Conductors (for SOFC/SOEC)** <span class="citation">[*Chem. Mater.* 32, 5028-5035 (2020)](https://doi.org/10.1021/acs.chemmater.0c00544); [*Chem. Mater.* 33, 8278-8288 (2021)](https://doi.org/10.1021/acs.chemmater.1c02432); [*Chem. Mater.* 34, 5938-5948 (2022)](https://doi.org/10.1021/acs.chemmater.2c00867)</span>
 
 
-Computation Prediction Confirmed
+Highlights &amp; Predictions Confirmed
 ------
 
+* **World-record halide superionic conductor.** By tuning collective anion motion through mixed-anion (Cl/Br) substitution, we achieved a world-record room-temperature ionic conductivity for halide solid electrolytes <span class="citation">[*Nat. Chem.* 16, 1584-1591 (2024)](https://doi.org/10.1038/s41557-024-01634-6)</span>, guided and revealed by our Density of Atomistic States (DOAS) computation <span class="citation">[*Angew. Chem. Int. Ed.* 62, e202215544 (2023)](https://doi.org/10.1002/anie.202215544)</span>
 * Discovered the UCl3-type structure as a new framework for fast Na-ion conductors, with conductivities of ~1–2 mS/cm validated in the same study — a substantial leap over prior Na halide conductors such as Na2ZrCl6 (0.04 mS/cm) <span class="citation">[*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3)</span> **→** experimentally validated as a high-performance Na-ion conductor <span class="citation">[*Adv. Mater.* 36, 230812 (2024)](https://doi.org/10.1002/adma.202308012)</span>, and confirmed to also enable fast Li-ion conduction <span class="citation">[*J. Am. Chem. Soc.* 145, 2183-2194 (2023)](https://doi.org/10.1021/jacs.2c09446)</span>
 * Predicted LiTaSiO5 (sphene-structured) as a new fast Li-ion conductor, guided by our concerted-migration and crystal-framework design principles <span class="citation">[*Nat. Commun.* 8, 15893 (2017)](http://dx.doi.org/10.1038/ncomms15893); [*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078)</span> **→** confirmed experimentally <span class="citation">[*Adv. Energy Mater.* 9, 1803821 (2019)](https://doi.org/10.1002/aenm.201803821); [*Adv. Funct. Mater.* 29, 1904232 (2019)](https://doi.org/10.1002/adfm.201904232)</span>
 * Predicted that halide spinel structures are poor Li-ion conductors due to cation blocking, but can be made into good Li-ion conductors by reducing cation concentration <span class="citation">[*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span> **→** confirmed experimentally <span class="citation">[*J. Am. Chem. Soc.* 148, 692-704 (2026)](https://doi.org/10.1021/jacs.5c15656); [*Energy Environ. Sci.* 13, 2056-2063 (2020)](https://doi.org/10.1039/d0ee01017)</span>
