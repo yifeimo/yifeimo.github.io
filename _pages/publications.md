@@ -34,6 +34,7 @@ author_profile: true
 **90.** Weihan Li<sup>1</sup>, Minsi Li<sup>1</sup>, Shuo Wang<sup>1#</sup>, Po-Hsiu Chien<sup>1</sup>, Jing Luo, Jiamin Fu, Xiaoting Lin, Graham King, Renfei Feng, Jian Wang, Jigang Zhou, Ruying Li, Jue Liu\*, Yifei Mo\*, Tsun-Kong Sham\*, Xueliang Sun\*, "Superionic conducting β-Li<sub>3</sub>N with high stability towards lithium metal enabling long cycling all-solid-state lithium metal batteries", [***Nature Nanotechnology***, 20, 265-275 (2024)](https://doi.org/10.1038/s41565-024-01813-z)
 
 **89.** Yunsheng Liu, Yifei Mo\*, "Learning from models: high-dimensional analyses on the performance of machine learning interatomic potentials", [***NPJ Computational Materials***, 10, 159 (2024)](https://doi.org/10.1038/s41524-024-01333-3)
+<br><span class="citation" style="display: block; margin-left: 2.2em;">[Code](https://github.com/mogroupumd/Learning_from_models) · [Interactive Explorer](https://mogroupumd.github.io/Learning_from_models/)</span>
 
 **88.** Yunsheng Liu, Yifei Mo\*, "Assessing the Accuracy of Machine Learning Interatomic Potentials in Predicting the Elemental Orderings: A Case Study of Li-Al Alloys", [***Acta Materialia***, 268, 119742 (2024)](https://doi.org/10.1016/j.actamat.2024.119742)
 
