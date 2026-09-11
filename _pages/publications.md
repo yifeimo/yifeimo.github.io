@@ -13,6 +13,8 @@ author_profile: true
 
 *(\* corresponding author, <sup>#</sup> Mo group member, <sup>1</sup> co-first author)*
 
+**99.** Kiyan Amirian, Ramanuja Srinivasan Saravanan, Felix Adams, Charles E. Schwarz, Yifei Mo\*, "FPBench: Application-Oriented Error Decomposition for Foundation Potentials", [arXiv:2609.05714](https://arxiv.org/abs/2609.05714)
+
 **98.** Felix Adams<sup>#</sup>, Ichiro Takeuchi, Carlos A Ríos Ocampo, Yifei Mo\*, "First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials", arXiv:2604.27120
 
 **97.** Feipeng Zhao<sup>1</sup>, Shumin Zhang<sup>1</sup>, Shuo Wang<sup>1#</sup>, Joel W. Reid<sup>1</sup>, Wei Xia, Jue Liu, Graham King, James A. Kaduk, Jianwen Liang, Jing Luo, Yingjie Gao, Feipeng Yang, Yang Zhao, Weihan Li, Sandamini H. Alahakoon, Jinghua Guo, Yining Huang, Tsun-Kong Sham, Yifei Mo\*, Xueliang Sun\*, "Anion sublattice design enables superionic conductivity in crystalline oxyhalides", [***Science***, 390, 199--204 (2025)](https://doi.org/10.1126/science.adt9678)
