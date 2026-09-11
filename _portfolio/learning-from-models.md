@@ -5,6 +5,7 @@ excerpt: 'Performance datasets and analysis notebooks for high-dimensional analy
 collection: portfolio
 order: 4
 icon: chart-line
+leaderboard: "https://mogroupumd.github.io/Learning_from_models/"
 link: "https://github.com/mogroupumd/Learning_from_models"
 ---
 
@@ -12,4 +13,4 @@ Performance datasets and analysis notebooks for the publication "Learning from m
 
 Reference: Yunsheng Liu, Yifei Mo\*, "Learning from models: high-dimensional analyses on the performance of machine learning interatomic potentials", [***NPJ Computational Materials***, 10, 159 (2024)](https://doi.org/10.1038/s41524-024-01333-3)
 
-[View on GitHub](https://github.com/mogroupumd/Learning_from_models)
+[Interactive Explorer](https://mogroupumd.github.io/Learning_from_models/) · [View on GitHub](https://github.com/mogroupumd/Learning_from_models)
