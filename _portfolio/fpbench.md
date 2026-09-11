@@ -3,6 +3,7 @@ title: "FPBench"
 repo: "FPBench"
 excerpt: "An application-oriented benchmark that decomposes the errors of machine-learned foundation potentials on representative computational tasks—force prediction, energy ranking, and ion migration—exposing reliability gaps that average energy/force errors miss, with open evaluation code and a public leaderboard."
 collection: portfolio
+order: 1
 icon: trophy
 leaderboard: "https://mogroupumd.github.io/FPBench/"
 link: "https://github.com/mogroupumd/FPBench"

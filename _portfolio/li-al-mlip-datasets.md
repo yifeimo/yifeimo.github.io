@@ -3,6 +3,7 @@ title: "Li-Al MLIP Models & Datasets"
 repo: "Li-Al_MLIP_datasets"
 excerpt: 'Training, validation, and testing datasets for assessing machine learning interatomic potential accuracy on elemental ordering in Li-Al alloys.<br><span class="citation">[*Acta Mater.* 268, 119742 (2024)](https://doi.org/10.1016/j.actamat.2024.119742)</span>'
 collection: portfolio
+order: 5
 icon: database
 link: "https://github.com/mogroupumd/Li-Al_MLIP_datasets"
 ---

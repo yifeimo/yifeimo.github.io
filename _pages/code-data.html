@@ -10,7 +10,8 @@ author_profile: true
 <div class="wordwrap">Code and datasets released by the Mo Group are hosted on GitHub at <a href="https://github.com/mogroupumd">github.com/mogroupumd</a>.</div>
 
 <div class="card-grid">
-{% for item in site.portfolio %}
+{% assign portfolio_items = site.portfolio | sort: 'order' %}
+{% for item in portfolio_items %}
   <div class="info-card">
     <div class="card-icon"><i class="fas fa-{{ item.icon | default: 'code' }}" aria-hidden="true"></i></div>
     <h4><a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a></h4>

@@ -3,6 +3,7 @@ title: "Silicon MLIP Datasets"
 repo: "Silicon_MLIP_datasets"
 excerpt: 'Training, validation, and testing datasets for evaluating machine learning interatomic potentials (MLIPs) on silicon defects and diffusion.<br><span class="citation">[*npj Comput. Mater.* 9, 174 (2023)](https://doi.org/10.1038/s41524-023-01123-3)</span>'
 collection: portfolio
+order: 7
 icon: database
 link: "https://github.com/mogroupumd/Silicon_MLIP_datasets"
 ---
