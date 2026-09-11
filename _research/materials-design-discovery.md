@@ -20,6 +20,11 @@ Unlike many computational studies that consider only a single property, our mate
 * **Moisture stability**, relevant to cost and processing. <span class="citation">[*Angew. Chem. Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)</span>
 * **Doping, substitution, and mixture**, often needed to improve materials properties and performance — computation can help prescreen candidates and narrow down the composition space. <span class="citation">[*Ionics* 24, 1139-1151 (2018)](https://doi.org/10.1007/s11581-017-2268-6); [*ACS Energy Lett.* 9, 5334-5340 (2024)](https://doi.org/10.1021/acsenergylett.4c02060); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356); [*Chem. Mater.* 25, 3048-3055 (2013)](https://doi.org/10.1021/cm401232r); [*Energy Environ. Sci.* 6, 148-156 (2013)](https://doi.org/10.1039/c2ee23355j); arXiv:2604.27120</span>
 
+Highlights
+------
+
+* **World-record halide superionic conductor.** By tuning collective anion motion through mixed-anion (Cl/Br) substitution, we achieved a world-record room-temperature ionic conductivity for halide solid electrolytes <span class="citation">[*Nat. Chem.* 16, 1584-1591 (2024)](https://doi.org/10.1038/s41557-024-01634-6)</span>, guided and revealed by our Density of Atomistic States (DOAS) computation <span class="citation">[*Angew. Chem. Int. Ed.* 62, e202215544 (2023)](https://doi.org/10.1002/anie.202215544)</span>
+
 Topics
 ------
 
