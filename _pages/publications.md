@@ -30,6 +30,7 @@ author_profile: true
 **92.** Hsin-Yun Chao, Adelaide Nolan<sup>#</sup>, Alex Hall, Dmitri Golberg, Cheol Park, Wei-Chang David Yang, Yifei Mo, Renu Sharma, John Cumings, "Resistance of Boron Nitride Nanotubes to Radiation-Induced Oxidation", [***Journal of Physical Chemistry C*** 128, 43, 18328--18337 (2024)](https://doi.org/10.1021/acs.jpcc.4c03814)
 
 **91.** Zhantao Liu, Alex Chien, Shuo Wang<sup>#</sup>, Shaowei Song, Mu Lu, Shuo Chen, Shuman Xia, Jue Liu\*, Yifei Mo\*, Hailong Chen\*, "Tuning collective anion motion enables superionic conductivity in solid-state halide electrolytes", [***Nature Chemistry***, 16, 1584--1591 (2024)](https://doi.org/10.1038/s41557-024-01634-6)
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Reports a world-record room-temperature ionic conductivity for halide solid electrolytes, achieved by rationally tuning the superionic transition temperature through halide substitution.</span>
 
 **90.** Weihan Li<sup>1</sup>, Minsi Li<sup>1</sup>, Shuo Wang<sup>1#</sup>, Po-Hsiu Chien<sup>1</sup>, Jing Luo, Jiamin Fu, Xiaoting Lin, Graham King, Renfei Feng, Jian Wang, Jigang Zhou, Ruying Li, Jue Liu\*, Yifei Mo\*, Tsun-Kong Sham\*, Xueliang Sun\*, "Superionic conducting β-Li<sub>3</sub>N with high stability towards lithium metal enabling long cycling all-solid-state lithium metal batteries", [***Nature Nanotechnology***, 20, 265-275 (2024)](https://doi.org/10.1038/s41565-024-01813-z)
 
