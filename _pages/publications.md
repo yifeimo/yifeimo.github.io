@@ -93,6 +93,7 @@ author_profile: true
 **66.** Adelaide M. Nolan, Eric D. Wachsman, Yifei Mo\*, "Computation-Guided Discovery of Coating Materials to Stabilize the Interface between Lithium Garnet Solid Electrolyte and High-Energy Cathodes for All-Solid-State Lithium Batteries", [***Energy Storage Materials*** 41,571-580, (2021)](https://doi.org/10.1016/j.ensm.2021.06.027)
 
 **65.** Menghao Yang, Yunsheng Liu, Adelaide M. Nolan, Yifei Mo\*, "Interfacial Atomistic Mechanisms of Lithium Metal Stripping and Plating in Solid-State Batteries", [***Advanced Materials*** 33, 2008081 (2021)](https://doi.org/10.1002/adma.202008081)
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Reveals that Li diffusion at the Li/solid-electrolyte interface is intrinsically fast, but stripping and plating are carrier-limited — bottlenecked by the availability of mobile carriers rather than by the intrinsic migration barrier — driving the contact loss and pore formation that govern interfacial failure.</span>
 
 **64.** Zachary D. Hood, Xi Chen, Robert L. Sacci, Xiaoming Liu, Gabriel M. Veith, Yifei Mo, Junjie Niu, Nancy J. Dudney, Miaofang Chi, " Elucidating Interfacial Stability between Lithium Metal Anode and Li Phosphorus Oxynitride via In Situ Electron Microscopy", [***Nano Letters*** 21, 1, 151--157 (2021)](https://doi.org/10.1021/acs.nanolett.0c03438)
 
