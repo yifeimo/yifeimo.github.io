@@ -25,3 +25,6 @@ main:
 
   - title: "Code & Data"
     url: /code-data/
+
+  - title: "FPBench"
+    url: https://mogroupumd.github.io/FPBench/
