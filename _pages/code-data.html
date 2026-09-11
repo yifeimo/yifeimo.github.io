@@ -14,7 +14,9 @@ author_profile: true
   <div class="info-card">
     <div class="card-icon"><i class="fas fa-{{ item.icon | default: 'code' }}" aria-hidden="true"></i></div>
     <h4><a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a></h4>
+    {% if item.leaderboard %}<p class="card-repo"><a href="{{ item.leaderboard }}"><i class="fas fa-trophy" aria-hidden="true"></i> Leaderboard</a></p>{% endif %}
     {% if item.link %}<p class="card-repo"><a href="{{ item.link }}"><i class="fab fa-github" aria-hidden="true"></i> {{ item.repo | default: item.title }}</a></p>{% endif %}
+    {% if item.paper %}<p class="card-repo"><a href="{{ item.paper }}"><i class="fas fa-file-alt" aria-hidden="true"></i> {{ item.paper_label | default: "Paper" }}</a></p>{% endif %}
     <p>{{ item.excerpt | markdownify }}</p>
   </div>
 {% endfor %}
