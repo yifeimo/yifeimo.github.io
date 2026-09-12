@@ -173,6 +173,7 @@ author_profile: true
 **31.** Wei Luo, Yunhui Gong, Yizhou Zhu<sup>#</sup>, Yiju Li, Yonggang Yao, Ying Zhang, Kun Fu, Glenn Pastel, Chuan-Fu Lin, Gary W. Rubloff, Yifei Mo, Eric D. Wachsman\*, Liangbing Hu\*, "Reducing Interfacial Resistance between Garnet-Structured Solid-State Electrolyte and Li Metal Anode by a Germanium Layer", [***Advanced Materials***, 29, 1606042 (2017)](http://dx.doi.org/10.1002/adma.201606042) *(ESI Highly Cited Paper)*
 
 **30.** Yizhou Zhu, Xingfeng He, Yifei Mo\*, "Strategies Based on Nitride Materials Chemistry to Stabilize Li Metal Anode", [***Advanced Science***, 1600517 (2017)](http://dx.doi.org/10.1002/advs.201600517) *(ESI Highly Cited Paper)*
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Discovered by computation that nitride anion chemistry prevents cation reduction and remains stable against lithium metal, proposing nitride-based coating and nitrogen-doping strategies for stable solid-electrolyte interphases and lithium-metal protection.</span>
 
 **29.** Kun Fu, Yunhui Gong, Shaomao Xu, Yizhou Zhu<sup>#</sup>, Yiju Li, Jiaqi Dai, Chengwei Wang, Boyang Liu, Glenn Pastel, Hua Xie, Yonggang Yao, Yifei Mo, Eric Wachsman\*, Liangbing Hu\*, "Stabilizing the Garnet Solid-Electrolyte/Polysulfide Interface in Li--S Batteries", [***Chemistry of Materials***, 29(19), 8037-8041 (2017)](http://dx.doi.org/10.1021/acs.chemmater.7b02339)
 
