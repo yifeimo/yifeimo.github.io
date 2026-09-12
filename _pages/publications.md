@@ -150,6 +150,7 @@ author_profile: true
 **41.** Jian Duan, Wangyan Wu, Adelaide M. Nolan<sup>#</sup>, Tengrui Wang, Jiayun Wen, Chenchen Hu, Yifei Mo<sup>#</sup>, Wei Luo\*, Yunhui Huang\*, "Lithium-Graphite Paste: An Interface Compatible Anode for Solid-State Batteries", [***Advanced Materials*** 31, 1807243 (2019)](https://doi.org/10.1002/adma.201807243) (Featured [front cover](https://doi.org/10.1002/adma.201970068)) *(ESI Highly Cited Paper)*
 
 **40.** Xuetian Ma, Adelaide Nolan<sup>#</sup>, Shuo Zhang<sup>#</sup>, Jianming Bai, Wenqian Xu, Lijun Wu, Yifei Mo**\***, Hailong Chen\*, "Guiding Synthesis of Polymorphs of Materials Using Nanometric Phase Diagrams", [***Journal of the American Chemical Society*** 140, 17290-17296 (2018)](https://doi.org/10.1021/jacs.8b11029)
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Computationally constructs a nanometric phase diagram, accounting for the size- and surface-dependent energetics that bulk phase diagrams miss, to rationally guide the synthesis of metastable polymorphs.</span>
 
 **39.** Adelaide Nolan, Yizhou Zhu, Xingfeng He, Qiang Bai, Yifei Mo\*, "Computation-Accelerated Design of Materials and Interfaces for All-Solid-State Lithium-Ion Batteries", [***Joule*** 2, 2016-2046 (2018)](https://doi.org/10.1016/j.joule.2018.08.017) (Invited Review) *(ESI Highly Cited Paper)*
 
