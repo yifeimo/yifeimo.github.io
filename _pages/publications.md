@@ -213,6 +213,7 @@ author_profile: true
 **11.** Shyue Ping Ong, Yifei Mo, William Davidson Richards, Lincoln Miara, Hyo Sug Lee, Gerbrand Ceder, "Phase stability, electrochemical stability and ionic conductivity in the Li<sub>10±1</sub>MP<sub>2</sub>X<sub>12</sub> family of superionic conductors", [***Energy and Environmental Science***, 6, 148-156 (2013)](http://dx.doi.org/10.1039/C2EE23355J) *(ESI Highly Cited Paper)*
 
 **10.** Yifei Mo, Shyue Ping Ong, Gerbrand Ceder, "First principles study of the Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> lithium super ionic conductor material", [***Chemistry of Materials***, 24, 15-17 (2012)](http://dx.doi.org/10.1021/cm203303y) *(ESI Highly Cited Paper)*
+<br><span class="citation" style="display: block; margin-left: 2.2em;">A pioneering study applying ab initio molecular dynamics simulations to a superionic conductor, revealing Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> as a 3D, rather than 1D, Li-ion conductor.</span>
 
 **9.** Shyue Ping Ong, Yifei Mo, Gerbrand Ceder, "Low hole polaron migration barrier in lithium peroxide", [***Physical Review B***, 85, 081105 (2012)](http://dx.doi.org/10.1103/PhysRevB.85.081105)
 
