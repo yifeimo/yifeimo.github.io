@@ -162,7 +162,7 @@ author_profile: true
 **36.** Qiang Bai, Xingfeng He, Yizhou Zhu, Yifei Mo\*, "First Principles Study of Oxyhydride H- Ion Conductors: Toward Facile Anion Conduction in Oxide-Based Materials", [***ACS Applied Energy Materials***, 1(4), 1626-1634 (2018)](https://doi.org/10.1021/acsaem.8b00077)
 
 **35.** Xingfeng He, Yizhou Zhu, Alexander Epstein, Yifei Mo\*, "Statistical Variances of Diffusional Properties from Ab Initio Molecular Dynamics Simulations", [***NPJ Computational Materials***, 4, 18 (2018)](https://doi.org/10.1038/s41524-018-0074-y)
-<br><span class="citation" style="display: block; margin-left: 2.2em;">Re-examines the estimation of diffusivity and ionic conductivity from AIMD simulations, establishing procedures to minimize fitting error and proposing methods to quantify the statistical variance of these properties, providing a foundation for assessing the statistical confidence of AIMD diffusion results.</span>
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Establishes procedures to quantify the statistical variance of diffusivity and ionic conductivity estimated from AIMD simulations, and to minimize fitting error.</span>
 
 **34.** Qiang Bai, Lufeng Yang, Hailong Chen\*, Yifei Mo\*, "Computational Studies of Electrode Materials in Sodium-Ion Batteries", [***Advanced Energy Materials***, 1702998 (2018)](https://doi.org/10.1002/aenm.201702998) (Invited Review)
 
