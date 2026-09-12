@@ -19,6 +19,12 @@ Beyond thermodynamic stability, interfaces can also fail dynamically during devi
 
 * **Dynamic mechanisms of electrochemical stripping and plating** at Li/solid-electrolyte interfaces, and related phenomena such as diffusion, interfacial defects, failure mechanisms, and crystallization. <span class="citation">[*Adv. Mater.* 33, 2008081 (2021)](https://doi.org/10.1002/adma.202008081); [*Angew. Chem. Int. Ed.* 60, 21494 (2021)](https://doi.org/10.1002/anie.202108144); [*Nat. Commun.* 14, 2986 (2023)](https://doi.org/10.1038/s41467-023-38757-2)</span>
 
+Computation Prediction Confirmed
+------
+
+* Discovered a nanometer-thin amorphous Li layer at the Li/solid-electrolyte interface, and predicted that Li(110)/solid-electrolyte interfaces resist nanopore formation and enable higher cycling rates <span class="citation">[*Angew. Chem. Int. Ed.* 60, 21494 (2021)](https://doi.org/10.1002/anie.202108144)</span> **→** confirmed experimentally <span class="citation">[*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4)</span>
+* Predicted the amorphous-to-BCC Li deposition pathway at solid-electrolyte interfaces <span class="citation">[*Nat. Commun.* 14, 2986 (2023)](https://doi.org/10.1038/s41467-023-38757-2)</span> **→** confirmed experimentally <span class="citation">[*Nat. Mater.* 24, 581-588 (2025)](https://doi.org/10.1038/s41563-024-02094-6)</span>
+
 Related Talks
 ------
 * [Design Principles for Solid Electrolyte–Electrode Interfaces in All-Solid-State Li-Ion Batteries: Insight from First-Principles Computation](https://terpconnect.umd.edu/~yfmo/Mo-SSB_interface-MRS-12_2018.pdf)
