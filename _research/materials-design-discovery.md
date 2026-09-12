@@ -7,7 +7,7 @@ order: 1
 excerpt: "We design and discover materials through high-throughput computation and machine learning/AI, evaluating the full range of properties a material needs to actually work in application."
 ---
 
-We design and discover materials through high-throughput computation combined with machine learning and AI. <span class="citation">[*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078); [*Nat. Commun.* 10, 5260 (2019)](https://doi.org/10.1038/s41467-019-13214-1); [*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span>
+We design and discover materials through high-throughput computation combined with machine learning and AI. <span class="citation">[*Adv. Energy Mater.* 9, 1902078 (2019)](https://doi.org/10.1002/aenm.201902078); [*Nat. Commun.* 10, 5260 (2019)](https://doi.org/10.1038/s41467-019-13214-1); [*Nat. Commun.* 14, 7615 (2023)](https://doi.org/10.1038/s41467-023-43436-3); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356); [*Joule* 2, 2016-2046 (2018)](https://doi.org/10.1016/j.joule.2018.08.017)</span>
 
 Unlike many computational studies that consider only a single property, our materials design and discovery accounts for the full, comprehensive set of aspects that determine whether a material actually works in application:
 
