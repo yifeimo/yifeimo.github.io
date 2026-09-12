@@ -20,12 +20,6 @@ Unlike many computational studies that consider only a single property, our mate
 * **Moisture stability**, relevant to cost and processing. <span class="citation">[*Angew. Chem. Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)</span>
 * **Doping, substitution, and mixture**, often needed to improve materials properties and performance — computation can help prescreen candidates and narrow down the composition space. <span class="citation">[*Ionics* 24, 1139-1151 (2018)](https://doi.org/10.1007/s11581-017-2268-6); [*ACS Energy Lett.* 9, 5334-5340 (2024)](https://doi.org/10.1021/acsenergylett.4c02060); [*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356); [*Chem. Mater.* 25, 3048-3055 (2013)](https://doi.org/10.1021/cm401232r); [*Energy Environ. Sci.* 6, 148-156 (2013)](https://doi.org/10.1039/c2ee23355j); arXiv:2604.27120</span>
 
-Highlights
-------
-
-* Discovered mixed-anion oxyhalide Li-ion conductors and derivatives, realizing a structural framework not available in oxides or halides through the mixed-anion strategy — achieving the highest room-temperature conductivity ever reported for a mixed-anion halide (up to 13.7 mS/cm), and the first crystalline oxyhalide superionic conductor discovered, preceding the report by Tanaka et al. <span class="citation">[*Science* 390, 199-204 (2025)](https://doi.org/10.1126/science.adt9678)</span>
-* Achieved a world-record room-temperature ionic conductivity for halide solid electrolytes by tuning collective anion motion through mixed-anion (Cl/Br) substitution <span class="citation">[*Nat. Chem.* 16, 1584-1591 (2024)](https://doi.org/10.1038/s41557-024-01634-6)</span>, with mechanisms corroborated by our Density of Atomistic States (DOAS) simulations <span class="citation">[*Angew. Chem. Int. Ed.* 62, e202215544 (2023)](https://doi.org/10.1002/anie.202215544)</span>
-
 Topics
 ------
 
@@ -48,6 +42,12 @@ Computation Prediction Confirmed
 * Computationally established design principles for chloride superionic conductors — cation concentration and configuration govern Li-ion conduction in halides, with low cation concentration and sparse/disordered cation distribution enhancing Li-ion conductivity by reducing cation blocking of diffusion pathways <span class="citation">[*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span> **→** confirmed experimentally: increasing cation concentration was shown to increase blocking of Li-ion migration in Li<sub>x</sub>ScCl<sub>3+x</sub> <span class="citation">[*J. Am. Chem. Soc.* 142(15), 7012-7022 (2020)](https://doi.org/10.1021/jacs.0c00134)</span>; and reducing cation concentration raised conductivity in trigonal Li3YCl6 <span class="citation">[*Science* 382, 573-579 (2023)](https://doi.org/10.1126/science.adg6591)</span>
 * Computationally predicted that halide spinel structures could be converted into good Li-ion conductors by reducing cation concentration, as revealed by computational insights into the cation-blocking effect <span class="citation">[*Adv. Energy Mater.* 10, 2002356 (2020)](https://doi.org/10.1002/aenm.202002356)</span> **→** confirmed experimentally <span class="citation">[*J. Am. Chem. Soc.* 148, 692-704 (2026)](https://doi.org/10.1021/jacs.5c15656); [*Energy Environ. Sci.* 13, 2056-2063 (2020)](https://doi.org/10.1039/d0ee01017)</span>
 * Revealed the trends in cation moisture stability from systematic first-principles thermodynamic screening of hydrolysis reactions, guiding cation selection for air-stable Li/Na solid electrolytes <span class="citation">[*Angew. Chem. Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)</span> **→** confirmed industrially: a chloride solid electrolyte using the predicted best-moisture-stability cation combination (In/Zn/Cd) was patented for improved air stability <span class="citation">[Chinese Patent CN121748511A](https://patents.google.com/patent/CN121748511A/en)</span>
+
+Highlights
+------
+
+* Discovered mixed-anion oxyhalide Li-ion conductors and derivatives, realizing a structural framework not available in oxides or halides through the mixed-anion strategy — achieving the highest room-temperature conductivity ever reported for a mixed-anion halide (up to 13.7 mS/cm), and the first crystalline oxyhalide superionic conductor discovered, preceding the report by Tanaka et al. <span class="citation">[*Science* 390, 199-204 (2025)](https://doi.org/10.1126/science.adt9678)</span>
+* Achieved a world-record room-temperature ionic conductivity for halide solid electrolytes by tuning collective anion motion through mixed-anion (Cl/Br) substitution <span class="citation">[*Nat. Chem.* 16, 1584-1591 (2024)](https://doi.org/10.1038/s41557-024-01634-6)</span>, with mechanisms corroborated by our Density of Atomistic States (DOAS) simulations <span class="citation">[*Angew. Chem. Int. Ed.* 62, e202215544 (2023)](https://doi.org/10.1002/anie.202215544)</span>
 
 Related Talks
 ------
