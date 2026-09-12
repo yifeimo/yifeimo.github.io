@@ -24,6 +24,7 @@ Computation Prediction Confirmed
 
 * Discovered a nanometer-thin amorphous Li layer at the Li/solid-electrolyte interface, and predicted that Li(110)/solid-electrolyte interfaces resist nanopore formation and enable higher cycling rates <span class="citation">[*Angew. Chem. Int. Ed.* 60, 21494 (2021)](https://doi.org/10.1002/anie.202108144)</span> **→** confirmed experimentally <span class="citation">[*Nat. Synth.* 4, 552-561 (2025)](https://doi.org/10.1038/s44160-024-00712-4)</span>
 * Predicted the amorphous-to-BCC Li deposition pathway at solid-electrolyte interfaces <span class="citation">[*Nat. Commun.* 14, 2986 (2023)](https://doi.org/10.1038/s41467-023-38757-2)</span> **→** confirmed experimentally <span class="citation">[*Nat. Mater.* 24, 581-588 (2025)](https://doi.org/10.1038/s41563-024-02094-6)</span>
+* Revealed the trends in cation moisture stability from systematic first-principles thermodynamic screening of hydrolysis reactions, guiding cation selection for air-stable Li/Na solid electrolytes <span class="citation">[*Angew. Chem. Int. Ed.* 59, 17472 (2020)](https://doi.org/10.1002/anie.202007621)</span> **→** confirmed industrially: a chloride solid electrolyte using the predicted best-moisture-stability cation combination (In/Zn/Cd) was patented for improved air stability <span class="citation">[Chinese Patent CN121748511A](https://patents.google.com/patent/CN121748511A/en)</span>
 
 Related Talks
 ------
