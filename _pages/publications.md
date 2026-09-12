@@ -19,6 +19,7 @@ author_profile: true
 **98.** Felix Adams<sup>#</sup>, Ichiro Takeuchi, Carlos A Ríos Ocampo, Yifei Mo\*, "First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials", arXiv:2604.27120
 
 **97.** Feipeng Zhao<sup>1</sup>, Shumin Zhang<sup>1</sup>, Shuo Wang<sup>1#</sup>, Joel W. Reid<sup>1</sup>, Wei Xia, Jue Liu, Graham King, James A. Kaduk, Jianwen Liang, Jing Luo, Yingjie Gao, Feipeng Yang, Yang Zhao, Weihan Li, Sandamini H. Alahakoon, Jinghua Guo, Yining Huang, Tsun-Kong Sham, Yifei Mo\*, Xueliang Sun\*, "Anion sublattice design enables superionic conductivity in crystalline oxyhalides", [***Science***, 390, 199--204 (2025)](https://doi.org/10.1126/science.adt9678)
+<br><span class="citation" style="display: block; margin-left: 2.2em;">Discovers mixed-anion oxyhalide Li-ion conductors and derivatives, realizing a structural framework not available in oxides or halides through the mixed-anion strategy — achieving the highest room-temperature conductivity ever reported for a mixed-anion halide (up to 13.7 mS/cm), and the first crystalline oxyhalide superionic conductor discovered, preceding the report by Tanaka et al.</span>
 
 **96.** Adam G. Jolley, Qiang Bai<sup>#</sup>, Rishvi Jayathilake, Yifei Mo, Eric D. Wachsman, "Bismuth oxide electrolytes with superior conductivity and stability", [***Materials Today***, 86, 247--254 (2025)](https://doi.org/10.1016/j.mattod.2025.03.030)
 
