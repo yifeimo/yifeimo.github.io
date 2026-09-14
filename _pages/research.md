@@ -26,7 +26,7 @@ We strive to achieve the following in **our Research**:
 {% for topic in research_sorted %}
   <div class="info-card">
     <div class="card-icon"><i class="fas fa-{{ topic.icon }}" aria-hidden="true"></i></div>
-    <h4><a href="{{ base_path }}{{ topic.url }}">{{ topic.title }}</a></h4>
+    <h3><a href="{{ base_path }}{{ topic.url }}">{{ topic.title }}</a></h3>
     <p>{{ topic.excerpt }}</p>
   </div>
 {% endfor %}
