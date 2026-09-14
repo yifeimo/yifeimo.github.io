@@ -9,38 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D. in Materials Science and Engineering, University of Wisconsin-Madison, 2010
 * Postdoctoral Research Associate, Materials Science and Engineering, Massachusetts Institute of Technology, 2010-2013
 
-Work experience
-======
+## Work experience
 * 2013-Present: Professor
   * Department of Materials Science and Engineering, University of Maryland, College Park
   * Affiliate, Maryland Energy Innovation Institute
 
-Honors and awards
-======
+## Honors and awards
 * Highly Cited Researcher (Top 0.1%), Clarivate Web of Science, 2021-2025
 * World's Top 2% Scientists (Stanford University list), 2021-present
 * Junior Faculty Outstanding Research Award, A. James Clark School of Engineering, 2022
 * Outstanding Young Scientist Award, Maryland Academy of Sciences, 2019
 
-Research interests
-======
+## Research interests
 * Computational materials science and materials discovery
 * First-principles and large-scale atomistic simulation
 * Solid-state electrolytes and solid-state batteries
 * Beyond Li-ion battery chemistries
 * Surfaces, interfaces, and nanomaterials
 
-Publications
-======
+## Publications
 See the full list on the [Publications page](/publications/).
 
-Patents
-======
+## Patents
 1. Y. Mo, Q. Bai, A. Epstein, C. Ling, Y. Zhang, "Lithium metal nitrides as lithium super-ionic conductors," US Patent 12,278,332
 2. Y. Mo, Q. Bai, X. He, C. Ling, "Lithium phosphate derivative compounds as Li super-ionic conductor, solid electrolyte and coating layer for lithium metal battery and lithium-ion battery," US Patent 12,206,069
 3. Y. Mo, Y. Liu, C. Ling, "LiZnCl4 derivatives in the group of Pmn21 as Li super-ionic conductor, solid electrolyte, and coating layer for Li metal battery and Li-ion battery," US Patent 12,034,113
@@ -66,17 +60,14 @@ Patents
 23. W. Richards, S. Ong, Y. Mo, G. Ceder, L. Miara, T. Tsujimura, Y. Wang, Y. Ryu, N. Suzuki, I. Uechi, "Sodium-conducting solid electrolyte," US Patent 9,966,629
 24. L. Miara, W. Richards, S. Ong, Y. Mo, G. Ceder, "Screening solid state ionic conductors for high ionic conductivity," US Patent 9,904,772
 
-Talks
-======
+## Talks
 See the full list on the [Talks page](/talks/).
 
 
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
 * Editorial board, npj Computational Materials, Energy Storage Materials, and Advanced Theory and Simulations

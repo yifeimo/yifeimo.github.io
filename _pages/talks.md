@@ -61,8 +61,7 @@ author_profile: true
 
 Our [YouTube channel](https://www.youtube.com/yifeimo).
 
-Video Presentations
-======
+## Video Presentations
 
 <div class="video-list">
 
@@ -167,8 +166,7 @@ Video Presentations
 
 </div>
 
-Podcast
-======
+## Podcast
 
 <div class="video-list">
 
@@ -207,8 +205,7 @@ Podcast
 
 </div>
 
-Selected Invited Presentations
-======
+## Selected Invited Presentations
 
 * Yifei Mo, "[Crystal Structure of Fast Li-Ion Conductors: Insights from Computation Analysis](http://www.terpconnect.umd.edu/~yfmo/Mo-HT%20SIC-ECS%2010%202019%20print.pdf)", Electrochemical Society (ECS) Meeting, Atlanta, GA (10/2019)
 * Yifei Mo, "[Solid Electrolyte Chemistry with Fast Ion Conduction and Good Electrochemical Stability: Insights from First Principles Computation](http://www.terpconnect.umd.edu/~yfmo/Mo-Cl%20Br%20SSE-ECS%2010_2019%20print.pdf)", Electrochemical Society (ECS) Meeting, Atlanta, GA (10/2019)

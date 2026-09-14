@@ -17,8 +17,7 @@ We strive to achieve the following in **our Research**:
 
 
 
-Research Areas
-======
+## Research Areas
 
 {% include base_path %}
 
