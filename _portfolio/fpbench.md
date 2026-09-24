@@ -5,8 +5,8 @@ excerpt: "An application-oriented benchmark that decomposes the errors of machin
 collection: portfolio
 order: 1
 icon: trophy
-leaderboard: "https://mogroupumd.github.io/FPBench/"
-link: "https://github.com/mogroupumd/FPBench"
+leaderboard: "https://mogroupumd.github.io/FP-DeErr/"
+link: "https://github.com/mogroupumd/FP-DeErr"
 paper: "https://arxiv.org/abs/2609.05714"
 paper_label: "arXiv:2609.05714"
 ---
@@ -15,4 +15,4 @@ FP-DeErr decomposes the error of machine-learned foundation potentials into appl
 
 Reference: Kiyan Amirian, Ramanuja Srinivasan Saravanan, Felix Adams, Charles E. Schwarz, Yifei Mo\*, "FP-DeErr: Application-Oriented Error Decomposition for Foundation Potentials", [arXiv:2609.05714](https://arxiv.org/abs/2609.05714)
 
-[Leaderboard](https://mogroupumd.github.io/FPBench/) · [View on GitHub](https://github.com/mogroupumd/FPBench) · [Paper](https://arxiv.org/abs/2609.05714)
+[Leaderboard](https://mogroupumd.github.io/FP-DeErr/) · [View on GitHub](https://github.com/mogroupumd/FP-DeErr) · [Paper](https://arxiv.org/abs/2609.05714)
