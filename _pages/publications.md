@@ -13,8 +13,8 @@ author_profile: true
 
 *(\* corresponding author, <sup>#</sup> Mo group member, <sup>1</sup> co-first author)*
 
-**99.** Kiyan Amirian, Ramanuja Srinivasan Saravanan, Felix Adams, Charles E. Schwarz, Yifei Mo\*, "FPBench: Application-Oriented Error Decomposition for Foundation Potentials", [arXiv:2609.05714](https://arxiv.org/abs/2609.05714)
-<br><span class="citation" style="display: block; margin-left: 2.2em;">FPBench introduces an application-oriented benchmark that decomposes foundation-potential errors on representative tasks — force prediction, energy ranking, and ion migration — into targeted metrics that pinpoint where and why models fail, guiding FP development. [Code](https://github.com/mogroupumd/FPBench) · [Leaderboard](https://mogroupumd.github.io/FPBench/)</span>
+**99.** Kiyan Amirian, Ramanuja Srinivasan Saravanan, Felix Adams, Charles E. Schwarz, Yifei Mo\*, "FP-DeErr: Application-Oriented Error Decomposition for Foundation Potentials", [arXiv:2609.05714](https://arxiv.org/abs/2609.05714)
+<br><span class="citation" style="display: block; margin-left: 2.2em;">FP-DeErr introduces an application-oriented benchmark that decomposes foundation-potential errors on representative tasks — force prediction, energy ranking, and ion migration — into targeted metrics that pinpoint where and why models fail, guiding FP development. [Code](https://github.com/mogroupumd/FPBench) · [Leaderboard](https://mogroupumd.github.io/FPBench/)</span>
 
 **98.** Felix Adams<sup>#</sup>, Ichiro Takeuchi, Carlos A Ríos Ocampo, Yifei Mo\*, "First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials", arXiv:2604.27120
 
