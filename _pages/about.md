@@ -22,6 +22,7 @@ We are a computational materials science group in Materials Science and Engineer
 * Large-scale atomistic modeling
 * Interfaces and interphases
 * AI/machine learning for materials science
+* Evaluation and error analysis of AI for science
 * Nanomaterials  
 * High-entropy materials
 * Quantum computing
